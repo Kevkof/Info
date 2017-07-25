@@ -1,5 +1,7 @@
 # Guns from Flaws
 
+## SafeKeeping: 
+
 1.	AMG-556 'Medusa'  
 2.	Colby Commander  
 3.	FFA 'BullShark'  
@@ -15,3 +17,5 @@
 13.	UL-3 'Jersey Devil'  
 14.	VBR 'Huntress'  
 15.	VBR 'Huntress'  
+
+## Bought: 
