@@ -2,6 +2,12 @@
 
 | Product | Price | Date |
 |:---|---:|---:|
+|Character Name Change ![](../Images/gift.png)|959 G1C|2017-07-28 12:47|
+|Character Name Change ![](../Images/gift.png)|959 G1C|2017-07-28 12:44|
+|Schoolgirl Pack ![](../Images/gift.png)|1,119 G1C|2017-07-28 12:43|
+|Schoolgirl Pack ![](../Images/gift.png)|1,119 G1C|2017-07-28 12:41|
+|Schoolgirl Pack ![](../Images/gift.png)|1,119 G1C|2017-07-28 12:38|
+|Colby CSG-20 RT1 ![](../Images/gift.png)|2,274 G1C|2017-07-28 12:36|
 |Joker Mystery Box 8 - Buy 1 Get 1 Free!|99 G1C|2017-06-14 17:29|
 |Joker Mystery Box 8 - Buy 1 Get 1 Free!|99 G1C|2017-06-14 17:29|
 |Joker Mystery Box 8 - Buy 1 Get 1 Free!|99 G1C|2017-06-14 17:29|
