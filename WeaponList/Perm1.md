@@ -8,6 +8,10 @@
 3.  N-HVR 762 Nol
 4.  N-TEC 5 Nol
 
+### Kevkof
+1.  Joker SR115 Carbine
+2.  N-TEC 5 Nol
+
 ### Kevk0f
 1.  JG-940
 2.  N-TEC 5 Nol
@@ -22,6 +26,7 @@
 7.	N-HVR 762 Nol
 8.	N-TEC 5 Nol
 9.	N-TEC 5 Nol
+10. N-TEC 5 Nol
 
 [Back to overview](../README.md)
 
