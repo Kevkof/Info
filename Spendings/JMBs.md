@@ -3,10 +3,10 @@
 # Joker Mystery Boxes (Power boxes and GM boxes not included)
 
 ## Total spent: 
-**142282 G1C / 370497 G1C**
+**142579 G1C / 378046 G1C**
 
 ## Total JMBs bought:
-**1833**
+**1839**
 
 ## Amount purchased per box
 
