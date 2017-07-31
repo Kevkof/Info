@@ -37,3 +37,7 @@ Kwartielafstand is het verschil tussen Q3 en Q1 (dus Q3-Q1).
 ### Definitie 2.7.1 (Variantie)
 De variantie (symbool σ² - lees sigma kwadraat) is het gemiddelde van de kwadraten van de verschillen tussen de waarde van de dataset en het gemiddelde.  
 ![formula](https://i.imgur.com/dG0CNWj.png)
+
+### Definitie 2.7.2 (Standaardafwijking)
+De standaardafwijking wordt dan gedefinieerd als de vierkantswortel van de variantie.
+![formula](https://i.imgur.com/JDIavzo.png) 
