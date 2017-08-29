@@ -24,7 +24,7 @@ Year|G1C Spent|USD value
 
 
 ## Purchase History Tool
-[Download](../extra/APB Purchase History Tool.jar)
+[Download](https://www.dropbox.com/s/2770uanzwumvq0f/APB%20Purchase%20History%20Tool.jar?dl=1)
 
 [Back to overview](../README.md)
 
