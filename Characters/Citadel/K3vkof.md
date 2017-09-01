@@ -12,18 +12,18 @@
 
 **Cop:** `Rank 15 (Complete)`  
 **Demolitions:** `Rank 3 80/350`  
-**Grenadier:** `Rank 3 202/350`  
+**Grenadier:** `Rank 3 204/350`  
 **Gunslinger:** `Rank 6 (Complete)`  
-**Machine Gunner:** `Rank 6 174/250`  
-**Marksman:** `Rank 8 290/325`  
-**Pointman:** `Rank 10 257/500`  
-**Rifleman:** `Rank 13 859/2000`  
+**Machine Gunner:** `Rank 6 175/250`  
+**Marksman:** `Rank 8 298/325`  
+**Pointman:** `Rank 10 270/500`  
+**Rifleman:** `Rank 13 869/2000`  
 **Sniper:** `Rank 10 468/500`  
-**Munitions Specialist:** `Class 4 299/600`  
+**Munitions Specialist:** `Class 4 300/600`  
 **Bomb Squad:** `Class 1 89/200`  
 **Crime-Scene Investigator:** `Class 1 147/200`  
 **Ram-Man:** `Class 3 (Complete)`  
-**Graffiti Artist:** `Class 1 161/200`  
+**Graffiti Artist:** `Class 1 165/200`  
 **White-Hat:** `Class 1 163/200`  
 
 ## Achievements
@@ -41,7 +41,7 @@
 **Drive-by:** `30/50`  
 **First Pick:** ![Check](../../Images/check.png)  
 **Friends in High Places:** ![Check](../../Images/check.png)  
-**Grease Monkey:** `183/400`  
+**Grease Monkey:** `184/400`  
 **Help!:** ![Check](../../Images/check.png)  
 **If You Could Sign by the X:** `177/500`  
 **Indoctrinate the Masses:** ![Check](../../Images/check.png)  
@@ -56,7 +56,7 @@
 **Out on Patrol:** ![Check](../../Images/check.png)  
 **R&R:** ![Check](../../Images/check.png)  
 **Reinforcement:** ![Check](../../Images/check.png)  
-**Right of Way:** `265/500`  
+**Right of Way:** `267/500`  
 **SWAT:** ![Check](../../Images/check.png)  
 **Seasoned Veteran:** ![Check](../../Images/check.png)  
 **ShadowStrike Elite:** ![Check](../../Images/check.png)  

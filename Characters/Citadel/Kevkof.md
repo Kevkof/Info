@@ -14,9 +14,9 @@
 **Grenadier:** `Rank 3 329/350`  
 **Gunslinger:** `Rank 6 (Complete)`  
 **Machine Gunner:** `Rank 6 218/250`  
-**Marksman:** `Rank 11 346/500`  
+**Marksman:** `Rank 11 347/500`  
 **Pointman:** `Rank 12 493/500`  
-**Rifleman:** `Rank 14 841/5000`  
+**Rifleman:** `Rank 14 867/5000`  
 **Sniper:** `Rank 11 266/500`  
 **Munitions Specialist:** `Class 4 54/600`  
 **Arsonist:** `Class 1 103/200`  
@@ -33,10 +33,10 @@
 **Backstabber:** ![Check](../../Images/check.png)  
 **Blood-Brother:** ![Check](../../Images/check.png)  
 **Boom goes the Dynamite!:** ![Check](../../Images/check.png)  
-**Car Thief:** `88/1000`  
+**Car Thief:** `93/1000`  
 **CarBeque:** ![Check](../../Images/check.png)  
 **CarBoom!:** ![Check](../../Images/check.png)  
-**Cherry Ride:** `39/50`  
+**Cherry Ride:** `40/50`  
 **Cold-blooded:** ![Check](../../Images/check.png)  
 **Criminal Mastermind:** ![Check](../../Images/check.png)  
 **Drive-by Annihilation:** `0/1`  
@@ -44,7 +44,7 @@
 **Five Finger Discount:** `116/500`  
 **Friend of Gresty:** ![Check](../../Images/check.png)  
 **Friends in High Places:** ![Check](../../Images/check.png)  
-**Grease Monkey:** `183/400`  
+**Grease Monkey:** `185/400`  
 **Help!:** ![Check](../../Images/check.png)  
 **Hitman:** ![Check](../../Images/check.png)  
 **Hooligan:** `94/100`  
@@ -66,6 +66,6 @@
 **Right of Way:** `200/500`  
 **Seasoned Veteran:** ![Check](../../Images/check.png)  
 **Skills to Pay the Bills:** ![Check](../../Images/check.png)  
-**Valet:** `88/100`  
+**Valet:** `93/100`  
 
 [Back to characterlist](../Overview.md)
