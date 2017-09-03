@@ -6,7 +6,7 @@
 
 **Gender:** `Female`  
 **Faction:** `Criminal`  
-**Rating:** `73`  
+**Rating:** `74`  
 
 ## Roles
 
