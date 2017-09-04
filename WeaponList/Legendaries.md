@@ -1,6 +1,9 @@
 [Back to overview](../README.md)
 
 # Legendary Weapons
+
+## Citadel 
+
 1.	AAEPD "Volcano JC"
 2.	AAEPD "Volcano JC"
 3.	AMG-556 'Medusa'
@@ -52,5 +55,11 @@
 49. UL-3 'Jersey Devil'
 50.	VBR 'Huntress'
 51.	VBR 'Huntress'
+
+## Jericho
+
+<ol>
+<li>FFA 'BullShark'</li>
+</ol>
 
 [Back to overview](../README.md)
