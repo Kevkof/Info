@@ -10,21 +10,21 @@
 
 ## Roles
 
-**Cop:**	`Rank 12 93/250`  
+**Cop:**	`Rank 12 115/250`  
 **Demolitions:**	`Rank 1 3/38`  
-**Grenadier:**	`Rank 4 17/500`  
-**Gunslinger:**	`Rank 5 786/1000`  
+**Grenadier:**	`Rank 4 18/500`  
+**Gunslinger:**	`Rank 5 791/1000`  
 **Machine Gunner:**	`Rank 7 103/175`  
 **Marksman:**	`Rank 9 303/350`  
 **Pointman:**	`Rank 8 80/325`  
 **Rifleman:**	`Rank 13 1513/2000`  
-**Sniper:**	`Rank 8 33/325`  
-**Munitions Specialist:**	`Class 4 43/600`  
+**Sniper:**	`Rank 8 37/325`  
+**Munitions Specialist:**	`Class 4 84/600`  
 **Bomb Squad:**	`Class 1 153/200`  
 **Crime-Scene Investigator:**	`Class 1 179/200`  
-**Ram-Man:**	`Class 2 224/250`  
-**Graffiti Artist:**	`Class 1 131/200`  
-**White-Hat:**	`Class 1 164/200`  
+**Ram-Man:**	`Class 2 225/250`  
+**Graffiti Artist:**	`Class 1 132/200`  
+**White-Hat:**	`Class 1 166/200`  
 
 ## Achievements
 
@@ -64,6 +64,6 @@
 **Natural Born Leader:**	![Check](../../Images/check.png)  
 **Kind of a Big Deal:**	![Check](../../Images/check.png)  
 **Right of Way:**	`267/500`  
-**Grease Monkey:**	`297/400`  
+**Grease Monkey:**	`298/400`  
 
 [Back to characterlist](../Overview.md)
