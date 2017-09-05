@@ -10,16 +10,16 @@
 
 ## Roles
 
-**Cop:**	`Rank 12 115/250`  
+**Cop:**	`Rank 12 152/250`  
 **Demolitions:**	`Rank 1 3/38`  
-**Grenadier:**	`Rank 4 18/500`  
-**Gunslinger:**	`Rank 5 791/1000`  
+**Grenadier:**	`Rank 4 19/500`  
+**Gunslinger:**	`Rank 5 796/1000`  
 **Machine Gunner:**	`Rank 7 103/175`  
 **Marksman:**	`Rank 9 303/350`  
 **Pointman:**	`Rank 8 80/325`  
 **Rifleman:**	`Rank 13 1513/2000`  
-**Sniper:**	`Rank 8 37/325`  
-**Munitions Specialist:**	`Class 4 84/600`  
+**Sniper:**	`Rank 8 39/325`  
+**Munitions Specialist:**	`Class 4 99/600`  
 **Bomb Squad:**	`Class 1 153/200`  
 **Crime-Scene Investigator:**	`Class 1 179/200`  
 **Ram-Man:**	`Class 2 225/250`  
