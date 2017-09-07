@@ -3,30 +3,37 @@
 # Permanent 1-slots 
 
 ### Kevkof1994
-1.  JG-940
-2.  Joker SR115 Carbine
-3.  N-HVR 762 Nol
-4.  N-TEC 5 Nol
+<ol>
+<li>JG-940</li>
+<li>Joker SR115 Carbine</li>
+<li>N-HVR 762 Nol</li>
+<li>N-TEC 5 Nol</li>
+</ol>
 
 ### Kevkof
-1.  Joker SR115 Carbine
-2.  N-TEC 5 Nol
+<ol>
+<li>Joker SR115 Carbine</li>
+<li>N-TEC 5 Nol</li>
+</ol>
 
 ### Kevk0f
-1.  JG-940
-2.  N-TEC 5 Nol
+<ol>
+<li>JG-940</li>
+<li>N-TEC 5 Nol</li>
+</ol>
 
 ### Deleted because duplicate (on that char)
-1.  JG-940
-2.  JG-940
-3.	Joker SR115 Carbine
-4.	N-HVR 762 Nol
-5.	N-HVR 762 Nol
-6.	N-HVR 762 Nol
-7.	N-HVR 762 Nol
-8.	N-TEC 5 Nol
-9.	N-TEC 5 Nol
-10. N-TEC 5 Nol
-
+<ol>
+<li>JG-940</li>
+<li>JG-940</li>
+<li>Joker SR115 Carbine</li>
+<li>N-HVR 762 Nol</li>
+<li>N-HVR 762 Nol</li>
+<li>N-HVR 762 Nol</li>
+<li>N-HVR 762 Nol</li>
+<li>N-TEC 5 Nol</li>
+<li>N-TEC 5 Nol</li>
+<li>N-TEC 5 Nol</li>
+</ol>
 [Back to overview](../README.md)
 
