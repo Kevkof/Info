@@ -3,12 +3,13 @@
 * Eight-Ball
 * Frag Grenade
 * Half-Brick
-* Low-Yield Fragmentation Grenade	Weapons
+* Low-Yield Fragmentation Grenade
 * Percussion Grenade
 * Snowball
 * Stun Grenade
 
 # Primairy Weapons
+
 ## Assault Rifles
 * AR-97 'Misery'
 * ATAC 424 'Bodyguard'

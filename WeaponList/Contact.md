@@ -3,10 +3,12 @@
 # Daily Activity Guns
 
 ### Kevkof1994
-1.	OCA Nano 'Assassin'
-2.	OCA Nano 'Chrome'
-3.	OCA Nano 'Connoisseur'
-4.	OCA Nano 'Glow'
+<ol>
+<li>OCA Nano 'Assassin'</li>
+<li>OCA Nano 'Chrome'</li>
+<li>OCA Nano 'Connoisseur'</li>
+<li>OCA Nano 'Glow'</li>
+</ol>
 
 [Back to overview](../README.md)
 
