@@ -1,10 +1,13 @@
-# Guns from Flaws
+# Stuff from Flaws
 
 ## SafeKeeping: 
+
+### Guns
 
 <ol>
 <li>AMG-556 'Medusa'  </li>
 <li>Colby Commander  </li>
+<li>FFA 'BullShark'  </li>
 <li>FFA 'BullShark'  </li>
 <li>FFA 5.56 R&D III</li>
 <li>N-HVR 243 'Sitting Duck'  </li>
@@ -16,6 +19,17 @@
 <li>VBR 'Huntress'  </li>
 <li>VBR 'Huntress'  </li>
 </ol> 
+
+### Clothing
+
+<ol>
+<li>Grayish Skeleton Outlaw Mask</li>
+<li>M56 Hoodie</li>
+<li>UNKN (Hood Up)</li>
+<li>Flaws hoodie down</li>
+<li>UNKN (Hood Down)</li>
+<li>Flaws hoodie up Fixed.</li>
+</ol>
 
 ## Bought: 
 
