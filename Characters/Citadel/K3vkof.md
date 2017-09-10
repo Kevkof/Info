@@ -15,11 +15,11 @@
 **Grenadier:**	`Rank 3 205/350`  
 **Gunslinger:**	`Rank 6 (Complete)`  
 **Machine Gunner:**	`Rank 6 182/250`  
-**Marksman:**	`Rank 8 319/325`  
+**Marksman:**	`Rank 8 396/325`  
 **Pointman:**	`Rank 10 270/500`  
 **Rifleman:**	`Rank 13 896/2000`  
 **Sniper:**	`Rank 10 468/500`  
-**Munitions Specialist:**	`Class 4 311/600`  
+**Munitions Specialist:**	`Class 4 313/600`  
 **Bomb Squad:**	`Class 1 89/200`  
 **Crime-Scene Investigator:**	`Class 1 147/200`  
 **Ram-Man:**	`Class 3 (Complete)`  
@@ -43,7 +43,7 @@
 **Drive-by Annihilation:**	![Check](../../Images/check.png)  
 **Boom goes the Dynamite!:**	![Check](../../Images/check.png)  
 **Cold-blooded:**	![Check](../../Images/check.png)  
-**Drive-by:**	`30/50`  
+**Drive-by:**	`31/50`  
 **CarBoom!:**	![Check](../../Images/check.png)  
 **Friends in High Places:**	![Check](../../Images/check.png)  
 **Skills to Pay the Bills:**	![Check](../../Images/check.png)  
@@ -63,7 +63,7 @@
 **CarBeque:**	![Check](../../Images/check.png)  
 **Natural Born Leader:**	![Check](../../Images/check.png)  
 **Kind of a Big Deal:**	![Check](../../Images/check.png)  
-**Right of Way:**	`269/500`  
+**Right of Way:**	`271/500`  
 **Grease Monkey:**	`184/400`  
 
 [Back to characterlist](../Overview.md)
