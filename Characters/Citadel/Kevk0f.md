@@ -10,7 +10,7 @@
 
 ## Roles
 
-**Cop:**	`Rank 12 152/250`  
+**Cop:**	`Rank 12 155/250`  
 **Demolitions:**	`Rank 1 3/38`  
 **Grenadier:**	`Rank 4 19/500`  
 **Gunslinger:**	`Rank 5 796/1000`  
