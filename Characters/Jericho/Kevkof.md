@@ -6,36 +6,36 @@
 
 **Gender:**	`Female`  
 **Faction:**	`Criminal`  
-**Rating:**	`74`  
+**Rating:**	`75`  
 
 ## Roles
 
 **Demolitions:**	`Rank 0 2/12`  
 **Grenadier:**	`Rank 2 42/100`  
-**Gunslinger:**	`Rank 2 31/100`  
-**Machine Gunner:**	`Rank 2 19/20`  
+**Gunslinger:**	`Rank 2 48/100`  
+**Machine Gunner:**	`Rank 3 2/50`  
 **Marksman:**	`Rank 4 21/100`  
-**Pointman:**	`Rank 5 20/200`  
-**Rifleman:**	`Rank 7 78/175`  
-**Sniper:**	`Rank 1 14/18`  
-**Munitions Specialist:**	`Class 1 66/100`  
+**Pointman:**	`Rank 5 22/200`  
+**Rifleman:**	`Rank 7 92/175`  
+**Sniper:**	`Rank 2 5/20`  
+**Munitions Specialist:**	`Class 1 69/100`  
 **Arsonist:**	`Class 0 13/50`  
 **Bomber:**	`Class 0 5/50`  
-**Burglar:**	`Class 0 20/50`  
+**Burglar:**	`Class 0 23/50`  
 **Mugger:**	`Class 1 58/200`  
 **Saviour:**	`Class 0 1/25`  
 **Graffiti Artist:**	`Class 0 12/50`  
 **Black-Hat:**	`Class 0 1/50`  
-**Booster:**	`Class 10/50`  
+**Booster:**	`Class 11/50`  
 
 ## Achievements
 
 **Reinforcement:**	![Check](../../Images/check.png)  
 **Help!:**	`3/100`  
 **Car Thief:**	`0/1000`  
-**Hitman:**	`1404/10000`  
+**Hitman:**	`1451/10000`  
 **Playing Dirty...:**	![Check](../../Images/check.png)  
-**Criminal Mastermind:**	`57/100`  
+**Criminal Mastermind:**	`60/100`  
 **Most Wanted:**	![Check](../../Images/check.png)  
 **Cherry Ride:**	`0/50`  
 **Five Finger Discount:**	`2/500`  
@@ -47,13 +47,13 @@
 **Cold-blooded:**	`0/1`  
 **Drive-by:**	`0/50`  
 **CarBoom!:**	![Check](../../Images/check.png)  
-**Friends in High Places:**	`83/95`  
-**Skills to Pay the Bills:**	`37/45`  
+**Friends in High Places:**	`84/95`  
+**Skills to Pay the Bills:**	`39/45`  
 **New Blood:**	![Check](../../Images/check.png)  
 **Blood-Brother:**	`0/1`  
 **Original G:**	![Check](../../Images/check.png)  
 **Friend of Gresty:**	`0/1`  
-**Medal Chaser:**	`22/100`  
+**Medal Chaser:**	`24/100`  
 **Most Valuable Player:**	![Check](../../Images/check.png)  
 **Olympic Contender:**	![Check](../../Images/check.png)  
 **Indoctrinate the Masses:**	`0/50`  
@@ -61,9 +61,9 @@
 **Mailman:**	`0/100`  
 **If You Could Sign by the X:**	`0/500`  
 **Valet:**	`0/100`  
-**Seasoned Veteran:**	`23/24`  
-**CarBeque:**	`16/100`  
-**Natural Born Leader:**	`20/100`  
+**Seasoned Veteran:**	![Check](../../Images/check.png)  
+**CarBeque:**	`17/100`  
+**Natural Born Leader:**	`21/100`  
 **Kind of a Big Deal:**	`0/1`  
 **Right of Way:**	`21/500`  
 **Grease Monkey:**	`16/400`  
