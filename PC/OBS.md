@@ -49,7 +49,7 @@
 > ![Check](../Images/check.png) **Force Microphone/Auxiliary to Mono**  
 > ![Check](../Images/check.png) **Show only connected devices**  
 > **Push-to-talk Delay (milliseconds):** `0`  
-> **Desktop Boost (multiple):** `4`  
+> **Desktop Boost (multiple):** `3`  
 > **Mic/Aux Boost (multiple):** `1`  
 > **Mic Sync Offset (milliseconds):** `0`  
 
