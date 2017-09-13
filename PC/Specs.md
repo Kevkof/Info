@@ -29,8 +29,6 @@
 
 # Images
 
-![setup](http://i.imgur.com/fyo9MOb.jpg)
-
-[Big setup (not at that house atm)](http://i.imgur.com/H6Pq0pu.jpg)
+![setup](http://i.imgur.com/H6Pq0pu.jpg)
 
 [Back to overview](../README.md)
