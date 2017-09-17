@@ -29,6 +29,8 @@
 <li>Flaws hoodie down</li>
 <li>UNKN (Hood Down)</li>
 <li>Flaws hoodie up Fixed.</li>
+<li>Skeleton Glove (L)</li>
+<li>Skeleton Glove (R)</li>
 </ol>
 
 ## Bought: 
