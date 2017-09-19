@@ -12,12 +12,12 @@
 
 **Cop:**	`Rank 15 (Complete)`  
 **Demolitions:**	`Rank 3 80/350`  
-**Grenadier:**	`Rank 3 209/350`  
+**Grenadier:**	`Rank 3 211/350`  
 **Gunslinger:**	`Rank 6 (Complete)`  
-**Machine Gunner:**	`Rank 6 182/250`  
-**Marksman:**	`Rank 9 10/350`  
+**Machine Gunner:**	`Rank 6 186/250`  
+**Marksman:**	`Rank 9 20/350`  
 **Pointman:**	`Rank 10 296/500`  
-**Rifleman:**	`Rank 13 969/2000`  
+**Rifleman:**	`Rank 13 981/2000`  
 **Sniper:**	`Rank 10 473/500`  
 **Munitions Specialist:**	`Class 4 315/600`  
 **Bomb Squad:**	`Class 1 93/200`  
