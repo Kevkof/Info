@@ -59,6 +59,7 @@
 <li>UL-3 'Hitchhiker'</li>
 <li>UL-3 'Jersey Devil'</li>
 <li>UL-3 'Jersey Devil'</li>
+<li>UL-3 'Jersey Devil'</li>
 <li>VBR 'Huntress'</li>
 <li>VBR 'Huntress'</li>
 </ol>
