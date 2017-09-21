@@ -9,9 +9,6 @@
 <li>Colby Commander  </li>
 <li>FFA 'BullShark'  </li>
 <li>FFA 'BullShark'  </li>
-<li>FFA 5.56 R&D III</li>
-<li>N-HVR 243 'Sitting Duck'  </li>
-<li>N-TEC 7 'Ursus'  </li>
 <li>NCR-762 'Anubis' Adeen  </li>
 <li>Obeya CAP40 'Sergeant'  </li>
 <li>Obeya CAP40 'Sergeant'  </li>
@@ -37,7 +34,10 @@
 
 <ol>
 <li>FFA 'BullShark'</li>
+<li>FFA 5.56 R&D III</li>
+<li>N-HVR 243 'Sitting Duck'  </li>
 <li>N-HVR 243 'Sitting Duck'</li>
+<li>N-TEC 7 'Ursus'  </li>
 <li>NFAS-12 'True Ogre'  </li>
 <li>VBR 'Huntress' </li>
 <li>OCA Nano 'Connoisseur'  </li>
