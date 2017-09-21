@@ -28,12 +28,15 @@
 <li>FFA 'BullShark'</li>
 <li>FFA 5.56 R&D III</li>
 <li>FFA 5.56 R&D III</li>
+<li>FFA 5.56 R&D III</li>
 <li>Firework Launcher</li>
 <li>Firework Launcher</li>
 <li>Mountie SF9 'Yukon'</li>
 <li>N-HVR 243 'Sitting Duck'</li>
 <li>N-HVR 243 'Sitting Duck'</li>
+<li>N-HVR 243 'Sitting Duck'</li>
 <li>N-HVR 243-SD 'Reaper'</li>
+<li>N-TEC 7 'Ursus'</li>
 <li>N-TEC 7 'Ursus'</li>
 <li>N-TEC 7 'Ursus'</li>
 <li>NCR-762 'Anubis'  Adeen</li>
