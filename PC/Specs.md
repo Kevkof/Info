@@ -21,7 +21,7 @@
 **Headset:** <a target="_blank" href="http://gaming.logitech.com/en-us/product/g933-7-1-surround-sound-gaming-headset">Logitech G933</a>  
 **Keyboard:** <a target="_blank" href="http://www.corsair.com/en/k70-lux-rgb-mechanical-gaming-keyboard-cherry-mx-red-eu">Corsair K70 LUX RGB - azerty layout</a>  
 **Microphone:** <a target="_blank" href="http://www.mxlmics.com/microphones/900-series/990/">MXL 990</a>  (usually not in use)  
-**Monitor 1(main):** <a target="_blank" href="http://www.iiyama.com/gb_en/products/prolite_gb2488hsu-b1/">Iiyama GB2488HSU-B1</a>  
+**Monitor 1(main):** <a target="_blank" href="https://www.asus.com/us/Monitors/ROG-SWIFT-PG279Q/">ASUS ROG Swift PG279Q</a>  
 **Monitor 2(left):** <a target="_blank" href="https://www.benq.com/en/monitor/designer/bl2711u.html">BenQ BL2711U</a>  
 **Monitor 3(right):** <a target="_blank" href="https://www.benq.com/en/monitor/designer/bl2711u.html">BenQ BL2711U</a>  
 **Mouse:** <a target="_blank" href="https://www.razerzone.com/eu-en/store/razer-naga-chroma">Razer Naga Chroma</a>  
