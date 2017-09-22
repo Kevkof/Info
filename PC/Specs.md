@@ -32,6 +32,7 @@
 
 ![setup](https://i.imgur.com/HCoOq7h.jpg)
 
-![pc](https://imgur.com/a/23qYq/1)
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/23qYq"><a href="//imgur.com/23qYq">PC updated 20/09/2017</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 [Back to overview](../README.md)
