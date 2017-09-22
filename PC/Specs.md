@@ -32,6 +32,6 @@
 
 ![setup](https://i.imgur.com/HCoOq7h.jpg)
 
-![pc](https://imgur.com/a/23qYq)
+![pc](https://imgur.com/a/23qYq/1)
 
 [Back to overview](../README.md)
