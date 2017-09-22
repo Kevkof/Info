@@ -30,6 +30,8 @@
 
 # Images
 
-![setup](http://i.imgur.com/H6Pq0pu.jpg)
+![setup](https://i.imgur.com/HCoOq7h.jpg)
+
+![pc](https://imgur.com/a/23qYq)
 
 [Back to overview](../README.md)
