@@ -16,6 +16,7 @@
 <li>Colby Commander</li>
 <li>Colby M-1922 'Hazardous'</li>
 <li>DOW 'Thumper'</li>
+<li>DOW 'Thumper'</li>
 <li>EOL 'Deep Impact' Mk4</li>
 <li>EOL 'Deep Impact' Mk4</li>
 <li>EOL 'Deep Impact' Mk4</li>
@@ -68,7 +69,6 @@
 <li>UL-3 'Jersey Devil'</li>
 <li>UL-3 'Jersey Devil'</li>
 <li>UL-3 'Jersey Devil'</li>
-<li>VBR 'Huntress'</li>
 <li>VBR 'Huntress'</li>
 <li>VBR 'Huntress'</li>
 <li>VBR 'Huntress'</li>
