@@ -1,10 +1,10 @@
 <a target="_blank" href="https://www.twitch.tv/kevkof1994">Twitch</a>  
-<a target="_blank" href="https://discord.gg/hcyhQcS">Discord Invite</a>
+<a target="_blank" href="https://discord.gg/hcyhQcS">Discord Invite</a>  
 
 # APB
 
 [Config](Config/Config.md)  
-[Characters](Characters/Overview.md)
+[Characters](Characters/Overview.md)  
 
 ### Weapons
 
