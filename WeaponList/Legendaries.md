@@ -7,6 +7,7 @@
 <ol>
 <li>AAEPD "Volcano JC"</li>
 <li>AAEPD "Volcano JC"</li>
+<li>AAEPD "Volcano JC"</li>
 <li>AMG-556 'Medusa'</li>
 <li>AMG-556 'Medusa'</li>
 <li>AMG-556 'Medusa'</li>
@@ -41,7 +42,6 @@
 <li>N-HVR 243 'Sitting Duck'</li>
 <li>N-HVR 243 'Sitting Duck'</li>
 <li>N-HVR 243-SD 'Reaper'</li>
-<li>N-TEC 7 'Ursus'</li>
 <li>N-TEC 7 'Ursus'</li>
 <li>N-TEC 7 'Ursus'</li>
 <li>NCR-762 'Anubis' Adeen</li>
