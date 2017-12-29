@@ -19,7 +19,7 @@ Year|G1C Spent|USD value
 2017|62584|$ 782.30
 
 ## Premium
-<iframe sandbox src="https://free.timeanddate.com/countdown/i5k52huj/n1248/cf11/cm0/cu2/ct0/cs1/ca2/co0/cr2/ss0/cacf0e7d5/cpc000/pct/tcfff/fs100/szw320/szh135/iso2022-12-18T21:20:00" allowTransparency="true" frameborder="0" width="160" height="19"></iframe>
+<iframe sandbox src="https://free.timeanddate.com/countdown/i5k52huj/n1248/cf11/cm0/cu2/ct0/cs1/ca2/co0/cr2/ss0/cacf0e7d5/cpc000/pct/tcfff/fs100/szw320/szh135/iso2022-12-23T21:20:00" allowTransparency="true" frameborder="0" width="160" height="19"></iframe>
 <br>
 
 
@@ -27,4 +27,3 @@ Year|G1C Spent|USD value
 [Download](https://www.dropbox.com/s/0plpt0rtcogqe8a/APB%20Purchase%20History%20Tool.zip?dl=1)
 
 [Back to overview](../README.md)
-
