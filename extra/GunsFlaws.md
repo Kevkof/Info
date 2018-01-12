@@ -2,16 +2,6 @@
 
 ## SafeKeeping: 
 
-### Clothing
-
-<ol>
-<li>Grayish Skeleton Outlaw Mask</li>
-<li>M56 Hoodie</li>
-<li>UNKN (Hood Up)</li>
-<li>Flaws hoodie down</li>
-<li>UNKN (Hood Down)</li>
-</ol>
-
 ## Bought: 
 
 <ol>
