@@ -16,7 +16,7 @@
 **Machine Gunner:**	`Rank 13 1907/2000`  
 **Marksman:**	`Rank 14 2357/5000`  
 **Pointman:**	`Rank 16 (Complete)`  
-**Rifleman:**	`Rank 15 3564/10000`  
+**Rifleman:**	`Rank 15 3576/10000`  
 **Sniper:**	`Rank 14 1056/5000`  
 **Munitions Specialist:**	`Class 15 (Complete)`  
 **Arsonist:**	`Class 3 (Complete)`  
