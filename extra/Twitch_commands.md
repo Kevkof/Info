@@ -2,7 +2,7 @@
 
 This page contains the commands and what they do
 
-|Commmand|Result|
+|Command|Result|
 |--------|------|
 | `!commands` | The list of all the commands and their responses can be seen on [https://kevkof.be/commands](https://kevkof.be/commands) |
 | `!config` | All the needed info about my config can be found on [https://kevkof.be/config](https://kevkof.be/config) |
