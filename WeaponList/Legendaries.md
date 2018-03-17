@@ -77,7 +77,7 @@
 ## Jericho
 
 <ol>
-<li>FFA 'BullShark'</li>
+<li>NCR-762 'Anubis' Adeen</li>
 </ol>
 
 [Back to overview](../README.md)
