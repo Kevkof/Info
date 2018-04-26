@@ -2739,26 +2739,13 @@
 
 <body>
 
-  <div class="top">
-
-    <div class="logo">Live Clock</div>
-
-    <div class="floatcontainer">
-
-      <div class="question"><a href="privacy.html">Privacy</a></div>
-
-    </div>
-
-  </div>
-
-
   <div class="contents">
 
     <p id="time" class="time">Please Wait...</p>
 
     <script type="text/javascript">
       setInterval(function() {
-        document.getElementById("time").innerHTML = moment().format('h:mm:ss a');
+        document.getElementById("time").innerHTML = moment().format('hh:mm:ss');
         document.title = ("Live clock - ") + moment().format('hh:mm:ss');
         document.getElementById("time").innerHTML = document.SampleForm.getElementById("time").value;
       }, 1000);
