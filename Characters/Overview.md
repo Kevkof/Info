@@ -16,5 +16,4 @@
 
 ## Nekrova
 
-[Kevkof, Female Criminal](Nekrova/Kevkof.md) <img src="../Images/crim0.png" alt="Criminal" height="20" width="20">  
-
+[Kevkof, Female Criminal](Nekrova/Kevkof.md) <img src="../Images/crim10.png" alt="Criminal" height="20" width="20">  
