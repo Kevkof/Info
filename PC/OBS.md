@@ -1,112 +1,99 @@
 [Back to overview](../README.md)
 
-# OBS Settings
+# OBS Settings (Streamlabs OBS)
+Last update Version 0.9.2
 
-## Encoding
+## General
 
-### *Video Encoding*
+> ![Check](../Images/check.png) Confirm stream title and game before going live  
+> **Language:** `English`
 
-> **Encoder:** `x264`  
-> **Use CBR:** ![Check](../Images/check.png)  
-> **Enable CBR padding:** ![Check](../Images/check.png)  
-> **Use Custom Buffer Size:** ![Check](../Images/check.png)  
-> **Max Bitrate (kb/s):** `4500`  
-> **Buffer Size (kbit):** `6000`  
+### OUTPUT
 
-### *Audio Encoding*
+> ![Empty](../Images/empty.png) Show confirmation dialog when starting streams  
+> ![Empty](../Images/empty.png) Show confirmation dialog when stopping streams  
+> ![Empty](../Images/empty.png) Automatically record when streaming  
+> ![Empty](../Images/empty.png) Keep recording when stream stops  
 
-> **Codec:** `AAC`  
-> **Bitrate:** `160`  
-> **Format:** `48kHz`  
-> **Channel:** `stereo`
+### SOURCE ALIGNEMENT SNAPPING
 
-## Broadcast Settings
+> ![Check](../Images/check.png) Enable  
+> **Snap Sensitivity:** `10`  
+> ![Check](../Images/check.png) Snap Sources to edge of screen  
+> ![Check](../Images/check.png) Snap Sources to other sources  
 
-> **Mode:** `Live Stream`  
-> **Streaming Service:** `Twitch`  
-> **FMS URL:** `EU: Paris, FR`  
-> **Play Path/Stream Key (if any):** `put your own stream key here (find it on the dashboard)`  
-> **Auto-Reconnect:** ![Check](../Images/check.png)  
-> **Auto-Reconnect Timeout:** `10`  
-> **Delay (seconds):** `0`  
-> **Minimize Network Impact:** ![Empty](../Images/empty.png)  
-> **Keep recording if live stream stops:** ![Empty](../Images/empty.png)  
-> **File Path:** `E:\Videos\$T.mp4`  
-> **Replay Buffer length (seconds):** `20`  
-> **Replay Buffer File Path:** `E:\Videos\Replay-$T.flv`  
-## Video
+## Stream 
 
-> **Video Adapter:** `NVIDIA GeForce GTX 970`  
-> **Base Resolution:** `1920`x`1080`  
-> **Resolution Downscale:** `1.50 (1280x720)`  
-> **Filter:** `Lanczos (best detail, 36 samples)`  
-> **FPS:** `60`  
+> **Stream Type:** `Streaming Services`  
+> **Service:** `Twitch`  
+> ![Empty](../Images/empty.png) Show all services  
+> **Server:** `EU: Paris, FR`  
+> **Streamkey:** `put your own stream key here (find it on the dashboard)`  
+
+## Output
+
+> **Output Mode:** `Simple`
+
+### STRAMING
+
+> **Video Bitrate:** `4500`  
+> **Encoder:** `Software (x264)`  
+> **Audio Bitrate:** `320`  
+> ![Check](../Images/check.png) Enable Advanced Encoder Settings  
+> ![Empty](../Images/empty.png) Enforce streaming service bitrate limits  
+> **Encoder Preset (Higher = Less CPU):** `verfast`  
+> **Custom Encoder Settings:** ` `  
+
+### RECORDING
+
+> **Recording Path:** `E:\Videos`  
+> ![Check](../Images/check.png) Generate File Name without Space  
+> **Recording Quality:** `Indistinguishable Quality, Large File Size`  
+> **Recording Format:** `mp4`  
+> **Custom Muxer Settings:** ` `  
+> ![Empty](../Images/empty.png) Enable Replay Buffer  
 
 ## Audio
 
-> **Desktop Audio Device:** `Default`  
-> **Microphone/Auxiliary Audio Device:** `Default`  
-> ![Check](../Images/check.png) **Force Microphone/Auxiliary to Mono**  
-> ![Check](../Images/check.png) **Show only connected devices**  
-> **Push-to-talk Delay (milliseconds):** `0`  
-> **Desktop Boost (multiple):** `3`  
-> **Mic/Aux Boost (multiple):** `1`  
-> **Mic Sync Offset (milliseconds):** `0`  
+> **Desktop Audio Device 1:** `Default`  
+> **Desktop Audio Device 2:** `Disabled`  
+> **Mic/Auxiliary Device 1:** `Default`  
+> **Mic/Auxiliary Device 2:** `Disabled`  
+> **Mic/Auxiliary Device 3:** `Disabled`  
+
+## Video
+
+> **Base (Canvas) Resolution:** `2560x1440`  
+> **Output (Scaled) Resolution:** `1280x720`  
+> **Downscale Filter:** `Lanczos (Sharpened scaling, 32 samples)`  
+> **FPS Type:** `Common FPS Values`  
+> **Common FPS Values:** `60`  
 
 ## Hotkeys
 
-### *Audio*
+This section will be skipped
 
-> ![Check](../Images/empty.png) **Use Push-to-talk**  
-> **Push-to-Talk:** `Mouse 5`  
-> **Push-to-Talk 2:** `None`  
-> **Mute/Unmute Mic:** `None`  
-> **Mute/Unmute Desktop:** `None`  
+## Advanced
 
-### *Broadcast*
+### GENERAL
 
-> **Start Stream:** `None`  
-> **Stop Stream:** `None`  
-> **Start Recording:** `None`  
-> **Stop Recording:** `None`  
-> **Start Replay Buffer:** `None`  
-> **Stop Replay Buffer:** `None`  
-> **Save Replay Buffer:** `None`  
-> **Record from Replay Buffer:** `None`  
+> **Process Priority:** `Normal`  
 
+### VIDEO
 
-## Advanced 
+> **Color Format:** `NV12`  
+> **YUV Color Space:** `601`  
+> **YUV Color Range:** `Partial`  
 
-### *General*
+### AUDIO
 
-> ![Check](../Images/check.png) **Use Multithreaded Optimizations**  
-> **Process Priority Class:** `Above Normal`  
-> **Scene Buffering Time (milliseconds):** `700`  
-> ![Check](../Images/check.png) **Disable encoding while previewing**  
-> ![Check](../Images/check.png) **Allow other modifiers on hotkeys**  
+> **Audio Monitoring Device:** `Default`
+> ![Empty](../Images/empty.png) Disable Windows audio ducking
 
-### *Video*
+### STREAM DELAY
 
-> **x264 CPU Preset:** `veryfast`  
-> **Encoding Profile:** `main`  
-> **Keyframe Interval (seconds, 0=auto):** `2`  
-> ![Check](../Images/check.png) **Use CFR**  
-> ![Empty](../Images/empty.png) **Custom x264 Encoder Settings**  
-> `None`  
-> ![Check](../Images/check.png) **Encode in Full Range**  
-> ![Empty](../Images/empty.png) **Allow 61-120 FPS entry in video settings**  
-
-### *Audio*
-
-> ![Check](../Images/check.png) **Force desktop audio to use video timestamps as a base for audio time**  
-> **Global Audio Sync Offset (milliseconds):** `0`  
-> ![Empty](../Images/empty.png) **Use Mic QPC timestamps**  
-
-### *Network*
-
-> ![Check](../Images/check.png) **Automatic low latency mode**  
-> **Bind To Interface:** `Default`  
-> **Latency tuning factor:** `0`  
-> ![Empty](../Images/empty.png) **Disable TCP send window optimization**  
+> ![Empty](../Images/empty.png) Enable
+> **Duration (Seconds):** `20`
+> ![Check](../Images/check.png) Preserved cutoff point (increase delay) when reconnecting
 
 [Back to overview](../README.md)
