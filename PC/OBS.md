@@ -42,7 +42,7 @@ Last update Version 0.9.2
 > ![Check](../Images/check.png) Enable Advanced Encoder Settings  
 > ![Empty](../Images/empty.png) Enforce streaming service bitrate limits  
 > **Encoder Preset (Higher = Less CPU):** `verfast`  
-> **Custom Encoder Settings:** ` `  
+> **Custom Encoder Settings:** `_`  
 
 ### RECORDING
 
@@ -87,13 +87,13 @@ This section will be skipped
 
 ### AUDIO
 
-> **Audio Monitoring Device:** `Default`
-> ![Empty](../Images/empty.png) Disable Windows audio ducking
+> **Audio Monitoring Device:** `Default`  
+> ![Empty](../Images/empty.png) Disable Windows audio ducking  
 
 ### STREAM DELAY
 
-> ![Empty](../Images/empty.png) Enable
-> **Duration (Seconds):** `20`
-> ![Check](../Images/check.png) Preserved cutoff point (increase delay) when reconnecting
+> ![Empty](../Images/empty.png) Enable  
+> **Duration (Seconds):** `20`  
+> ![Check](../Images/check.png) Preserved cutoff point (increase delay) when reconnecting  
 
 [Back to overview](../README.md)
