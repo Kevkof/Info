@@ -51,7 +51,6 @@
 <li>NFAS-12 'True Ogre'</li>
 <li>NFAS-12 'True Ogre'</li>
 <li>OCA Nano 'Connoisseur'</li>
-<li>OCA Nano 'Connoisseur'</li>
 <li>OCSP 'Kommandant' Clubs</li>
 <li>OCSP 'Kommandant' Diamonds</li>
 <li>OCSP 'Kommandant' Hearts</li>
