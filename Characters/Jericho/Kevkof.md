@@ -6,17 +6,17 @@
 
 **Gender:**	`Female`  
 **Faction:**	`Criminal`  
-**Rating:**	`76`  
+**Rating:**	`78`  
 
 ## Roles
 
 **Demolitions:**	`Rank 0 2/12`  
-**Grenadier:**	`Rank 2 42/100`  
-**Gunslinger:**	`Rank 2 50/100`  
+**Grenadier:**	`Rank 2 46/100`  
+**Gunslinger:**	`Rank 2 56/100`  
 **Machine Gunner:**	`Rank 3 2/50`  
-**Marksman:**	`Rank 4 23/100`  
-**Pointman:**	`Rank 5 28/200`  
-**Rifleman:**	`Rank 7 92/175`  
+**Marksman:**	`Rank 4 24/100`  
+**Pointman:**	`Rank 5 42/200`  
+**Rifleman:**	`Rank 7 100/175`  
 **Sniper:**	`Rank 2 14/20`  
 **Munitions Specialist:**	`Class 1 69/100`  
 **Arsonist:**	`Class 0 13/50`  
@@ -24,18 +24,18 @@
 **Burglar:**	`Class 0 27/50`  
 **Mugger:**	`Class 1 58/200`  
 **Saviour:**	`Class 0 1/25`  
-**Graffiti Artist:**	`Class 0 12/50`  
+**Graffiti Artist:**	`Class 0 13/50`  
 **Black-Hat:**	`Class 0 1/50`  
-**Booster:**	`Class 12/50`  
+**Booster:**	`Class 13/50`  
 
 ## Achievements
 
 **Reinforcement:**	![Check](../../Images/check.png)  
 **Help!:**	`3/100`  
 **Car Thief:**	`0/1000`  
-**Hitman:**	`1470/10000`  
+**Hitman:**	`1505/10000`  
 **Playing Dirty...:**	![Check](../../Images/check.png)  
-**Criminal Mastermind:**	`61/100`  
+**Criminal Mastermind:**	`63/100`  
 **Most Wanted:**	![Check](../../Images/check.png)  
 **Cherry Ride:**	`0/50`  
 **Five Finger Discount:**	`2/500`  
@@ -45,9 +45,9 @@
 **Drive-by Annihilation:**	`0/1`  
 **Boom goes the Dynamite!:**	![Check](../../Images/check.png)  
 **Cold-blooded:**	`0/1`  
-**Drive-by:**	`0/50`  
+**Drive-by:**	`1/50`  
 **CarBoom!:**	![Check](../../Images/check.png)  
-**Friends in High Places:**	`85/95`  
+**Friends in High Places:**	`87/95`  
 **Skills to Pay the Bills:**	`39/45`  
 **New Blood:**	![Check](../../Images/check.png)  
 **Blood-Brother:**	`0/1`  
@@ -65,7 +65,7 @@
 **CarBeque:**	`17/100`  
 **Natural Born Leader:**	`21/100`  
 **Kind of a Big Deal:**	`0/1`  
-**Right of Way:**	`21/500`  
+**Right of Way:**	`22/500`  
 **Grease Monkey:**	`16/400`  
 
 [Back to characterlist](../Overview.md)
