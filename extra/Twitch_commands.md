@@ -17,7 +17,7 @@ This page contains the commands and what they do
 | `!history` | My entire purchase history on this account is: [https://kevkof.be/history](https://kevkof.be/history) |
 | `!info` | You can view my info site on [https://kevkof.be/info](https://kevkof.be/info) |
 | `!launcher` | The Advanced APB Launcher can be downloaded from [https://kevkof.be/advancedlauncher](https://kevkof.be/advancedlauncher) |
-| `!otw` | Read all about the OTW server here: [http://forums.gamersfirst.com/forum-1016/announcement-554-apb-reloaded-open-test-world-also-known-as-otw/](http://forums.gamersfirst.com/forum-1016/announcement-554-apb-reloaded-open-test-world-also-known-as-otw/) |
+| `!otw` | Download the OTW client here: <https://forums.gamersfirst.com/forum/84-otw-bug-reports/> |
 | `!sens` | I play at 1500 x-dpi, 1200 y-dpi and in-game settings 23.04 and 0.3 |
 | `!songlist` | The song list can be seen on [https://kevkof.be/songlist](https://kevkof.be/songlist)  |
 | `!specs` | You can see all the info below or on PCPartPicker: [https://kevkof.be/pcpartpicker](https://kevkof.be/pcpartpicker) or my Info pages (with pics) |
