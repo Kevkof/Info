@@ -4,6 +4,7 @@ This page contains the commands and what they do
 
 |Command|Result|
 |--------|------|
+| `!age` | The account for $user was created $readapi(https://api.crunchprank.net/twitch/accountage/$user) ago. |
 | `!commands` | The list of all the commands and their responses can be seen on [https://kevkof.be/commands](https://kevkof.be/commands) |
 | `!config` | All the needed info about my config can be found on [https://kevkof.be/config](https://kevkof.be/config) |
 | `!currentsong` | Current song: $currentsong - Requested by: $requestedby |
