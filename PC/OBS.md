@@ -36,12 +36,12 @@ Last update Version 0.9.2
 
 ### STRAMING
 
-> **Video Bitrate:** `4500`  
-> **Encoder:** `Software (x264)`  
+> **Video Bitrate:** `6000`  
+> **Encoder:** `NVENC`  
 > **Audio Bitrate:** `320`  
 > ![Check](../Images/check.png) Enable Advanced Encoder Settings  
 > ![Empty](../Images/empty.png) Enforce streaming service bitrate limits  
-> **Encoder Preset (Higher = Less CPU):** `verfast`  
+> **Encoder Preset (Higher = Less CPU):** `Low-Latency High Quality`  
 > **Custom Encoder Settings:** `_`  
 
 ### RECORDING
@@ -64,7 +64,7 @@ Last update Version 0.9.2
 ## Video
 
 > **Base (Canvas) Resolution:** `2560x1440`  
-> **Output (Scaled) Resolution:** `1280x720`  
+> **Output (Scaled) Resolution:** `1920x1080`  
 > **Downscale Filter:** `Lanczos (Sharpened scaling, 32 samples)`  
 > **FPS Type:** `Common FPS Values`  
 > **Common FPS Values:** `60`  
