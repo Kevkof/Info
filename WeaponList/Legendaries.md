@@ -75,7 +75,7 @@
 ## Jericho
 
 <ol>
-<li>NCR-762 'Anubis' Adeen</li>
+<li>UL-3 'Jersey Devil'</li>
 </ol>
 
 [Back to overview](../README.md)
