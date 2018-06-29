@@ -15,7 +15,7 @@
 **Gunslinger:**	`Rank 2 56/100`  
 **Machine Gunner:**	`Rank 3 2/50`  
 **Marksman:**	`Rank 4 24/100`  
-**Pointman:**	`Rank 5 42/200`  
+**Pointman:**	`Rank 5 49/200`  
 **Rifleman:**	`Rank 7 100/175`  
 **Sniper:**	`Rank 2 14/20`  
 **Munitions Specialist:**	`Class 1 69/100`  
@@ -33,12 +33,12 @@
 **Reinforcement:**	![Check](../../Images/check.png)  
 **Help!:**	`3/100`  
 **Car Thief:**	`0/1000`  
-**Hitman:**	`1505/10000`  
+**Hitman:**	`1513/10000`  
 **Playing Dirty...:**	![Check](../../Images/check.png)  
-**Criminal Mastermind:**	`63/100`  
+**Criminal Mastermind:**	`64/100`  
 **Most Wanted:**	![Check](../../Images/check.png)  
 **Cherry Ride:**	`0/50`  
-**Five Finger Discount:**	`2/500`  
+**Five Finger Discount:**	`3/500`  
 **Hooligan:**	`6/100`  
 **R&R:**	![Check](../../Images/check.png)  
 **Backstabber:**	![Check](../../Images/check.png)  
@@ -65,7 +65,7 @@
 **CarBeque:**	`17/100`  
 **Natural Born Leader:**	`21/100`  
 **Kind of a Big Deal:**	`0/1`  
-**Right of Way:**	`22/500`  
-**Grease Monkey:**	`16/400`  
+**Right of Way:**	`23/500`  
+**Grease Monkey:**	`17/400`  
 
 [Back to characterlist](../Overview.md)
