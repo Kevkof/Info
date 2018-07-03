@@ -16,6 +16,7 @@
 <li>Colby Commander</li>
 <li>Colby Commander</li>
 <li>Colby M-1922 'Hazardous'</li>
+<li>Colby M-1922 'Hazardous'</li>
 <li>DOW 'Thumper'</li>
 <li>DOW 'Thumper'</li>
 <li>EOL 'Deep Impact' Mk4</li>
@@ -46,7 +47,6 @@
 <li>NCR-762 'Anubis' Adeen</li>
 <li>NCR-762 'Anubis' Adeen</li>
 <li>NCR-762 'Anubis' Adeen</li>
-<li>NCR-762 'Anubis' Adeen  </li>
 <li>NFAS-12 'True Ogre'</li>
 <li>NFAS-12 'True Ogre'</li>
 <li>OCA Nano 'Connoisseur'</li>
