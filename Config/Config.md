@@ -24,10 +24,10 @@
 
 ### Shorcut Parameters
 
-![Shortcut](https://i.imgur.com/mCmZvhW.png)
+![Shortcut](https://i.imgur.com/vhUJk7B.png)
 
 ```
-"C:\Program Files (x86)\Steam\steamapps\common\APB Reloaded\Binaries\APB.exe" -lbl -pktlag=0 -noamdtsc -noverifygc
+"C:\Program Files (x86)\Steam\steamapps\common\APB Reloaded\Binaries\APB.exe"
 ```
 
 ### How do I go back
