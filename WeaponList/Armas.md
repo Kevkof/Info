@@ -51,6 +51,7 @@
 <li>S1-TIC 'Rabid'</li>
 <li>SG-21 'Strife'</li>
 <li>SHAW 556 R&D III</li>
+<li>Showstopper</li>
 <li>STAC 10 - Scope R&D III</li>
 <li>STAC 10 - Tactical R&D III</li>
 <li>STAR 556 'LCR' "Old Glory"</li>
