@@ -67,6 +67,8 @@
 <li>Obeya CAP40 'Sergeant'</li>
 <li>Raptor 45 'Condor'</li>
 <li>Raptor 45 'Condor'</li>
+<li>Raptor 45 'Condor'</li>
+<li>Showstopper 'Thunder'</li>
 <li>UL-3 'Bloody Mary'</li>
 <li>UL-3 'Hitchhiker'</li>
 <li>UL-3 'Jersey Devil'</li>
