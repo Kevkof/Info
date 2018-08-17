@@ -19,10 +19,12 @@
 <li>Colby M-1922 'Hazardous'</li>
 <li>DOW 'Thumper'</li>
 <li>DOW 'Thumper'</li>
+<li>DOW 'Thumper'</li>
 <li>EOL 'Deep Impact' Mk4</li>
 <li>EOL 'Deep Impact' Mk4</li>
 <li>EOL 'Deep Impact' Mk4</li>
 <li>EOL 'Deep Impact' Mk4</li>
+<li>EOL 'Kickback' Mk4</li>
 <li>EOL 'Kickback' Mk4</li>
 <li>EOL 'Kickback' Mk4</li>
 <li>EOL 'The Hammer' Mk4</li>
@@ -48,6 +50,9 @@
 <li>NCR-762 'Anubis' Adeen</li>
 <li>NCR-762 'Anubis' Adeen</li>
 <li>NCR-762 'Anubis' Adeen</li>
+<li>NCR-762 'Anubis' Adeen</li>
+<li>NFAS-12 'True Ogre'</li>
+<li>NFAS-12 'True Ogre'</li>
 <li>NFAS-12 'True Ogre'</li>
 <li>NFAS-12 'True Ogre'</li>
 <li>OCA Nano 'Connoisseur'</li>
