@@ -64,7 +64,6 @@
 <li>Obeya CAP40 'Sergeant'</li>
 <li>Obeya CAP40 'Sergeant'</li>
 <li>Obeya CAP40 'Sergeant'</li>
-<li>Obeya CAP40 'Sergeant'</li>
 <li>Raptor 45 'Condor'</li>
 <li>Raptor 45 'Condor'</li>
 <li>Raptor 45 'Condor'</li>
