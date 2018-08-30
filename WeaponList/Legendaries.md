@@ -19,7 +19,6 @@
 <li>Colby M-1922 'Hazardous'</li>
 <li>DOW 'Thumper'</li>
 <li>DOW 'Thumper'</li>
-<li>DOW 'Thumper'</li>
 <li>EOL 'Deep Impact' Mk4</li>
 <li>EOL 'Deep Impact' Mk4</li>
 <li>EOL 'Deep Impact' Mk4</li>
@@ -47,6 +46,7 @@
 <li>N-HVR 243 'Sitting Duck'</li>
 <li>N-HVR 243-SD 'Reaper'</li>
 <li>N-TEC 7 'Ursus'</li>
+<li>NCR-762 'Anubis' Adeen</li>
 <li>NCR-762 'Anubis' Adeen</li>
 <li>NCR-762 'Anubis' Adeen</li>
 <li>NCR-762 'Anubis' Adeen</li>
