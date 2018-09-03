@@ -14,7 +14,7 @@
 **Grenadier:**	`Rank 5 (Complete)`  
 **Gunslinger:**	`Rank 6 (Complete)`  
 **Machine Gunner:**	`Rank 14 77/5000`  
-**Marksman:**	`Rank 14 2545/5000`  
+**Marksman:**	`Rank 14 2561/5000`  
 **Pointman:**	`Rank 16 (Complete)`  
 **Rifleman:**	`Rank 15 6736/10000`  
 **Sniper:**	`Rank 14 1136/5000`  
