@@ -2,22 +2,23 @@
 
 | Product | Price | Date |
 |:---|---:|---:|
-| Joker Mystery Box 21 (20 Pack + 5 Bonus)| 1,980 G1C | 17/08/2018 22:40|
-| Joker Mystery Box 21 (20 Pack + 5 Bonus)| 1,980 G1C | 17/08/2018 22:40|
-| Joker Mystery Box 21 (10 Pack + 2 Bonus)| 990 G1C | 17/08/2018 22:40|
-| Joker Mystery Box 21 (5 Pack + 1 Bonus)| 495 G1C | 17/08/2018 22:40|
-| Joker Mystery Box 21| 99 G1C | 17/08/2018 22:40|
-| Joker Mystery Box 21| 99 G1C | 17/08/2018 22:40|
-| Joker Mystery Box 21 (20 Pack + 5 Bonus)| 1,980 G1C | 17/08/2018 17:21|
-| Joker Mystery Box 21 (20 Pack + 5 Bonus)| 1,980 G1C | 17/08/2018 17:21|
-| Joker Mystery Box 21| 99 G1C | 17/08/2018 17:21|
-| Joker Mystery Box 21| 99 G1C | 17/08/2018 17:21|
-| Joker Mystery Box 21| 99 G1C | 17/08/2018 17:17|
-| Joker Mystery Box 21| 99 G1C | 17/08/2018 17:17|
-| Joker Mystery Box 21| 99 G1C | 17/08/2018 17:17|
-| Joker Mystery Box 21 (20 Pack + 5 Bonus)| 1,980 G1C | 17/08/2018 17:10|
-| Joker Mystery Box 21 (20 Pack + 5 Bonus)| 1,980 G1C | 17/08/2018 17:10|
-| Joker Mystery Box 21 (20 Pack + 5 Bonus)| 1,980 G1C | 17/08/2018 17:10|
+| Goth Highlander Pack | 1,119 G1C | 2018-09-09 19:50 |
+| Joker Mystery Box 21 (20 Pack + 5 Bonus)| 1,980 G1C | 2018-08-17 22:40|
+| Joker Mystery Box 21 (20 Pack + 5 Bonus)| 1,980 G1C | 2018-08-17 22:40|
+| Joker Mystery Box 21 (10 Pack + 2 Bonus)| 990 G1C | 2018-08-17 22:40|
+| Joker Mystery Box 21 (5 Pack + 1 Bonus)| 495 G1C | 2018-08-17 22:40|
+| Joker Mystery Box 21| 99 G1C | 2018-08-17 22:40|
+| Joker Mystery Box 21| 99 G1C | 2018-08-17 22:40|
+| Joker Mystery Box 21 (20 Pack + 5 Bonus)| 1,980 G1C | 2018-08-17 17:21|
+| Joker Mystery Box 21 (20 Pack + 5 Bonus)| 1,980 G1C | 2018-08-17 17:21|
+| Joker Mystery Box 21| 99 G1C | 2018-08-17 17:21|
+| Joker Mystery Box 21| 99 G1C | 2018-08-17 17:21|
+| Joker Mystery Box 21| 99 G1C | 2018-08-17 17:17|
+| Joker Mystery Box 21| 99 G1C | 2018-08-17 17:17|
+| Joker Mystery Box 21| 99 G1C | 2018-08-17 17:17|
+| Joker Mystery Box 21 (20 Pack + 5 Bonus)| 1,980 G1C | 2018-08-17 17:10|
+| Joker Mystery Box 21 (20 Pack + 5 Bonus)| 1,980 G1C | 2018-08-17 17:10|
+| Joker Mystery Box 21 (20 Pack + 5 Bonus)| 1,980 G1C | 2018-08-17 17:10|
 | Showstopper|1,559 G1C|2018-08-11 08:44|
 | Joker Mystery Box 20 (5 Pack + 1 Bonus)|495 G1C|2018-06-08 21:56|
 | APB Steam Retail Pack|$ 4.37|2018-06-08 21:54|
