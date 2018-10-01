@@ -13,10 +13,10 @@
 **Demolitions:**	`Rank 6 (Complete)`  
 **Grenadier:**	`Rank 5 (Complete)`  
 **Gunslinger:**	`Rank 6 (Complete)`  
-**Machine Gunner:**	`Rank 14 90/5000`  
-**Marksman:**	`Rank 14 2570/5000`  
+**Machine Gunner:**	`Rank 14 100/5000`  
+**Marksman:**	`Rank 14 2580/5000`  
 **Pointman:**	`Rank 16 (Complete)`  
-**Rifleman:**	`Rank 15 7150/10000`  
+**Rifleman:**	`Rank 15 7182/10000`  
 **Sniper:**	`Rank 14 1140/5000`  
 **Munitions Specialist:**	`Class 15 (Complete)`  
 **Arsonist:**	`Class 3 (Complete)`  
