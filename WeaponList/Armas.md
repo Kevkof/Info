@@ -19,6 +19,7 @@
 <li>Colby M-1922 'Big Chopper'</li>
 <li>Colby M-1922 Mk3</li>
 <li>Colby PMG Mk 4</li>
+<li>FAR 'Spearhead'</li>
 <li>H-9 'Curse'</li>
 <li>JG-1040 Tactical</li>
 <li>Joker C9 'Wasp'</li>

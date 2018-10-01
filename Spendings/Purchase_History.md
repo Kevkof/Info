@@ -2,6 +2,7 @@
 
 | Product | Price | Date |
 |:---|---:|---:|
+| FAR 'Spearhead' (Account Lifetime) | 1,949 G1C | 2018-09-30 23:52  |
 | Goth Highlander Pack | 1,119 G1C | 2018-09-09 19:50 |
 | Joker Mystery Box 21 (20 Pack + 5 Bonus)| 1,980 G1C | 2018-08-17 22:40|
 | Joker Mystery Box 21 (20 Pack + 5 Bonus)| 1,980 G1C | 2018-08-17 22:40|
