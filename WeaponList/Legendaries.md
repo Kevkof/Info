@@ -10,7 +10,6 @@
 <li>AAEPD "Volcano JC"</li>
 <li>AMG-556 'Medusa'</li>
 <li>AMG-556 'Medusa'</li>
-<li>AMG-556 'Medusa'</li>
 <li>Colby Commander</li>
 <li>Colby Commander</li>
 <li>Colby Commander</li>

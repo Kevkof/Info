@@ -14,10 +14,10 @@
 **Grenadier:**	`Rank 5 (Complete)`  
 **Gunslinger:**	`Rank 6 (Complete)`  
 **Machine Gunner:**	`Rank 14 100/5000`  
-**Marksman:**	`Rank 14 2580/5000`  
+**Marksman:**	`Rank 14 2600/5000`  
 **Pointman:**	`Rank 16 (Complete)`  
-**Rifleman:**	`Rank 15 7182/10000`  
-**Sniper:**	`Rank 14 1140/5000`  
+**Rifleman:**	`Rank 15 7185/10000`  
+**Sniper:**	`Rank 14 1141/5000`  
 **Munitions Specialist:**	`Class 15 (Complete)`  
 **Arsonist:**	`Class 3 (Complete)`  
 **Bomber:**	`Class 3 (Complete)`  
@@ -25,7 +25,7 @@
 **Mugger:**	`Class 3 (Complete)`  
 **Saviour:**	`Class 3 (Complete)`  
 **Graffiti Artist:**	`Class 3 (Complete)`  
-**Black-Hat:**	`Class 2 210/250`  
+**Black-Hat:**	`Class 2 213/250`  
 **Booster:**	`Class 3 (Complete)`  
 
 ## Achievements
