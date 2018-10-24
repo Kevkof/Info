@@ -16,9 +16,9 @@
 **Gunslinger:**	`Rank 6 (Complete)`  
 **Machine Gunner:**	`Rank 6 229/250`  
 **Marksman:**	`Rank 9 56/350`  
-**Pointman:**	`Rank 10 343/500`  
+**Pointman:**	`Rank 10 344/500`  
 **Rifleman:**	`Rank 13 1022/2000`  
-**Sniper:**	`Rank 11 11/500`  
+**Sniper:**	`Rank 11 12/500`  
 **Munitions Specialist:**	`Class 4 337/600`  
 **Bomb Squad:**	`Class 1 108/200`  
 **Crime-Scene Investigator:**	`Class 1 167/200`  
