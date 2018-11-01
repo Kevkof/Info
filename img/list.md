@@ -1,5 +1,9 @@
 # List of images
  
+ <img src="`https://kevkof.com/img/map.png`" alt="map.png" width="200"/> 
+ 
+`https://kevkof.com/img/map.png`
+ 
  <img src="`https://kevkof.com/img/kiosk.png`" alt="kiosk.png" width="200"/> 
  
 `https://kevkof.com/img/kiosk.png`
