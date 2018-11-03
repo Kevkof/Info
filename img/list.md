@@ -1,5 +1,9 @@
 # List of images
  
+ <img src="https://kevkof.com/img/preset symbols.png" alt="preset symbols.png" height="200"/> 
+ 
+`https://kevkof.com/img/preset symbols.png`
+ 
  <img src="https://kevkof.com/img/primitives.png" alt="primitives.png" height="200"/> 
  
 `https://kevkof.com/img/primitives.png`
