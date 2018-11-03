@@ -50,6 +50,7 @@
 <li>NCR-762 'Anubis' Adeen</li>
 <li>NCR-762 'Anubis' Adeen</li>
 <li>NCR-762 'Anubis' Adeen</li>
+<li>NCR-762 'Anubis' Adeen</li>
 <li>NFAS-12 'True Ogre'</li>
 <li>NFAS-12 'True Ogre'</li>
 <li>NFAS-12 'True Ogre'</li>
