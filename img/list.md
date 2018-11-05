@@ -1,9 +1,5 @@
 # List of images
  
- <img src="https://kevkof.com/img/testing_img.png" alt="testing_img.png" height="200"/> 
- 
-`https://kevkof.com/img/testing_img.png`
- 
  <img src="https://kevkof.com/img/Battleye_FAQ.png" alt="Battleye_FAQ.png" height="200"/> 
  
 `https://kevkof.com/img/Battleye_FAQ.png`
