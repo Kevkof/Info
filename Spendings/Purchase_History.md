@@ -2,6 +2,7 @@
 
 | Product | Price | Date |
 |:---|---:|---:|
+| Character Name Change | 959 G1C | 2018-11-05 01:04 |
 | Epidemic Decal Sheet | 159 G1C | 2018-11-03 00:06 | 
 | Halloween Costume Symbol Sheet | 159 G1C | 2018-11-03 00:06 | 
 | Halloween Animal Symbol Sheet | 159 G1C | 2018-11-03 00:06 | 
