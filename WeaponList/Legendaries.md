@@ -42,7 +42,6 @@
 <li>Mountie SF9 'Yukon'</li>
 <li>N-HVR 243 'Sitting Duck'</li>
 <li>N-HVR 243 'Sitting Duck'</li>
-<li>N-HVR 243 'Sitting Duck'</li>
 <li>N-HVR 243-SD 'Reaper'</li>
 <li>N-TEC 7 'Ursus'</li>
 <li>NCR-762 'Anubis' Adeen</li>
@@ -55,6 +54,7 @@
 <li>NFAS-12 'True Ogre'</li>
 <li>NFAS-12 'True Ogre'</li>
 <li>NFAS-12 'True Ogre'</li>
+<li>OCA Nano 'Connoisseur'</li>
 <li>OCA Nano 'Connoisseur'</li>
 <li>OCSP 'Kommandant' Clubs</li>
 <li>OCSP 'Kommandant' Diamonds</li>
