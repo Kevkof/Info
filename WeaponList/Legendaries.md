@@ -9,7 +9,6 @@
 <li>AAEPD "Volcano JC"</li>
 <li>AAEPD "Volcano JC"</li>
 <li>AMG-556 'Medusa'</li>
-<li>AMG-556 'Medusa'</li>
 <li>Colby Commander</li>
 <li>Colby Commander</li>
 <li>Colby Commander</li>
@@ -68,6 +67,7 @@
 <li>Raptor 45 'Condor'</li>
 <li>Raptor 45 'Condor'</li>
 <li>Showstopper 'Thunder'</li>
+<li>UL-3 'Bloody Mary'</li>
 <li>UL-3 'Bloody Mary'</li>
 <li>UL-3 'Hitchhiker'</li>
 <li>UL-3 'Jersey Devil'</li>
