@@ -12,14 +12,14 @@
 
 **Cop:**	`Rank 15 (Complete)`  
 **Demolitions:**	`Rank 3 80/350`  
-**Grenadier:**	`Rank 3 228/350`  
+**Grenadier:**	`Rank 3 229/350`  
 **Gunslinger:**	`Rank 6 (Complete)`  
-**Machine Gunner:**	`Rank 6 229/250`  
-**Marksman:**	`Rank 9 56/350`  
-**Pointman:**	`Rank 10 344/500`  
+**Machine Gunner:**	`Rank 6 230/250`  
+**Marksman:**	`Rank 9 69/350`  
+**Pointman:**	`Rank 10 351/500`  
 **Rifleman:**	`Rank 13 1022/2000`  
-**Sniper:**	`Rank 11 12/500`  
-**Munitions Specialist:**	`Class 4 337/600`  
+**Sniper:**	`Rank 11 18/500`  
+**Munitions Specialist:**	`Class 4 340/600`  
 **Bomb Squad:**	`Class 1 108/200`  
 **Crime-Scene Investigator:**	`Class 1 167/200`  
 **Ram-Man:**	`Class 3 (Complete)`  
@@ -64,6 +64,6 @@
 **Natural Born Leader:**	![Check](../../Images/check.png)  
 **Kind of a Big Deal:**	![Check](../../Images/check.png)  
 **Right of Way:**	`286/500`  
-**Grease Monkey:**	`199/400`  
+**Grease Monkey:**	`200/400`  
 
 [Back to characterlist](../Overview.md)
