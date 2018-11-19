@@ -12,16 +12,16 @@
 
 **Cop:**	`Rank 15 (Complete)`  
 **Demolitions:**	`Rank 3 80/350`  
-**Grenadier:**	`Rank 3 229/350`  
+**Grenadier:**	`Rank 3 231/350`  
 **Gunslinger:**	`Rank 6 (Complete)`  
 **Machine Gunner:**	`Rank 6 230/250`  
-**Marksman:**	`Rank 9 69/350`  
+**Marksman:**	`Rank 9 72/350`  
 **Pointman:**	`Rank 10 351/500`  
-**Rifleman:**	`Rank 13 1022/2000`  
+**Rifleman:**	`Rank 13 1025/2000`  
 **Sniper:**	`Rank 11 18/500`  
 **Munitions Specialist:**	`Class 4 340/600`  
 **Bomb Squad:**	`Class 1 108/200`  
-**Crime-Scene Investigator:**	`Class 1 167/200`  
+**Crime-Scene Investigator:**	`Class 1 168/200`  
 **Ram-Man:**	`Class 3 (Complete)`  
 **Graffiti Artist:**	`Class 1 178/200`  
 **White-Hat:**	`Class 1 171/200`  
