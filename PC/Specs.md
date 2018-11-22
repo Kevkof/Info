@@ -31,7 +31,7 @@
 
 # Images
 
-![setup](https://i.imgur.com/JnQxCO6.jpg)
+![setup](../img/IMG_20181118_144846.jpg)
 
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/23qYq"><a href="//imgur.com/23qYq">PC updated 20/09/2017</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
