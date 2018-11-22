@@ -18,12 +18,12 @@
 **Marksman:**	`Rank 9 72/350`  
 **Pointman:**	`Rank 10 355/500`  
 **Rifleman:**	`Rank 13 1025/2000`  
-**Sniper:**	`Rank 11 19/500`  
+**Sniper:**	`Rank 11 25/500`  
 **Munitions Specialist:**	`Class 4 340/600`  
 **Bomb Squad:**	`Class 1 108/200`  
 **Crime-Scene Investigator:**	`Class 1 168/200`  
 **Ram-Man:**	`Class 3 (Complete)`  
-**Graffiti Artist:**	`Class 1 177/200`  
+**Graffiti Artist:**	`Class 1 179/200`  
 **White-Hat:**	`Class 1 173/200`  
 
 ## Achievements
