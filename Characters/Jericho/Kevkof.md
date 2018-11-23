@@ -11,10 +11,10 @@
 ## Roles
 
 **Demolitions:**	`Rank 0 2/12`  
-**Grenadier:**	`Rank 2 46/100`  
-**Gunslinger:**	`Rank 2 56/100`  
+**Grenadier:**	`Rank 2 47/100`  
+**Gunslinger:**	`Rank 2 57/100`  
 **Machine Gunner:**	`Rank 3 2/50`  
-**Marksman:**	`Rank 4 24/100`  
+**Marksman:**	`Rank 4 35/100`  
 **Pointman:**	`Rank 5 49/200`  
 **Rifleman:**	`Rank 7 100/175`  
 **Sniper:**	`Rank 2 14/20`  
@@ -33,9 +33,9 @@
 **Reinforcement:**	![Check](../../Images/check.png)  
 **Help!:**	`3/100`  
 **Car Thief:**	`0/1000`  
-**Hitman:**	`1513/10000`  
+**Hitman:**	`1526/10000`  
 **Playing Dirty...:**	![Check](../../Images/check.png)  
-**Criminal Mastermind:**	`64/100`  
+**Criminal Mastermind:**	`65/100`  
 **Most Wanted:**	![Check](../../Images/check.png)  
 **Cherry Ride:**	`0/50`  
 **Five Finger Discount:**	`3/500`  
@@ -44,7 +44,7 @@
 **Backstabber:**	![Check](../../Images/check.png)  
 **Drive-by Annihilation:**	`0/1`  
 **Boom goes the Dynamite!:**	![Check](../../Images/check.png)  
-**Cold-blooded:**	`0/1`  
+**Cold-blooded:**	![Check](../../Images/check.png)  
 **Drive-by:**	`1/50`  
 **CarBoom!:**	![Check](../../Images/check.png)  
 **Friends in High Places:**	`87/95`  
@@ -56,7 +56,7 @@
 **Medal Chaser:**	`25/100`  
 **Most Valuable Player:**	![Check](../../Images/check.png)  
 **Olympic Contender:**	![Check](../../Images/check.png)  
-**Indoctrinate the Masses:**	`0/50`  
+**Indoctrinate the Masses:**	`1/50`  
 **Neither Snow, Nor Rain, Nor Heat...:**	`0/25`  
 **Mailman:**	`0/100`  
 **If You Could Sign by the X:**	`0/500`  
