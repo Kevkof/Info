@@ -4,6 +4,14 @@
  
 `https://kevkof.com/img/Thunder_female.png`
  
+ <img src="Showstopper_female.png" alt="Showstopper_female.png" height="200"/> 
+ 
+`https://kevkof.com/img/Showstopper_female.png`
+ 
+ <img src="Thunder_male.png" alt="Thunder_male.png" height="200"/> 
+ 
+`https://kevkof.com/img/Thunder_male.png`
+ 
  <img src="Splash.bmp" alt="Splash.bmp" height="200"/> 
  
 `https://kevkof.com/img/Splash.bmp`
