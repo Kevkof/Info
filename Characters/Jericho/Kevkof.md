@@ -13,12 +13,12 @@
 **Demolitions:**	`Rank 0 2/12`  
 **Grenadier:**	`Rank 2 47/100`  
 **Gunslinger:**	`Rank 2 57/100`  
-**Machine Gunner:**	`Rank 3 2/50`  
-**Marksman:**	`Rank 4 35/100`  
-**Pointman:**	`Rank 5 49/200`  
+**Machine Gunner:**	`Rank 3 5/50`  
+**Marksman:**	`Rank 4 37/100`  
+**Pointman:**	`Rank 5 50/200`  
 **Rifleman:**	`Rank 7 100/175`  
 **Sniper:**	`Rank 2 14/20`  
-**Munitions Specialist:**	`Class 1 69/100`  
+**Munitions Specialist:**	`Class 1 75/100`  
 **Arsonist:**	`Class 0 13/50`  
 **Bomber:**	`Class 0 5/50`  
 **Burglar:**	`Class 0 27/50`  
@@ -32,12 +32,12 @@
 
 **Reinforcement:**	![Check](../../Images/check.png)  
 **Help!:**	`3/100`  
-**Car Thief:**	`0/1000`  
-**Hitman:**	`1526/10000`  
+**Car Thief:**	`1/1000`  
+**Hitman:**	`1532/10000`  
 **Playing Dirty...:**	![Check](../../Images/check.png)  
 **Criminal Mastermind:**	`65/100`  
 **Most Wanted:**	![Check](../../Images/check.png)  
-**Cherry Ride:**	`0/50`  
+**Cherry Ride:**	`1/50`  
 **Five Finger Discount:**	`3/500`  
 **Hooligan:**	`6/100`  
 **R&R:**	![Check](../../Images/check.png)  
@@ -63,7 +63,7 @@
 **Valet:**	`0/100`  
 **Seasoned Veteran:**	![Check](../../Images/check.png)  
 **CarBeque:**	`17/100`  
-**Natural Born Leader:**	`21/100`  
+**Natural Born Leader:**	`22/100`  
 **Kind of a Big Deal:**	`0/1`  
 **Right of Way:**	`23/500`  
 **Grease Monkey:**	`17/400`  
