@@ -10,7 +10,7 @@
 
 ### How to install: 
 
-1. Download the config. [link](https://www.dropbox.com/s/mar34fm9n1zw2ir/APB_fix.zip?dl=1)
+1. Download the config. [link](Kevkof_config.zip)
 2. Install the config: Just copy the 'APB Reloaded' folder from the .zip file to your apb folder (merge both APB Reloaded folders)
 3. Launch APB from the `APB.exe` that you can find in the folder `APB Reloaded\Binaries` (you can just make a shortcut for this)
 
