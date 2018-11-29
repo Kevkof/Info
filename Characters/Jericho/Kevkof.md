@@ -12,18 +12,18 @@
 
 **Demolitions:**	`Rank 0 2/12`  
 **Grenadier:**	`Rank 2 47/100`  
-**Gunslinger:**	`Rank 2 57/100`  
+**Gunslinger:**	`Rank 2 58/100`  
 **Machine Gunner:**	`Rank 3 5/50`  
 **Marksman:**	`Rank 4 37/100`  
-**Pointman:**	`Rank 5 50/200`  
-**Rifleman:**	`Rank 7 100/175`  
+**Pointman:**	`Rank 5 57/200`  
+**Rifleman:**	`Rank 7 108/175`  
 **Sniper:**	`Rank 2 14/20`  
 **Munitions Specialist:**	`Class 1 75/100`  
 **Arsonist:**	`Class 0 13/50`  
 **Bomber:**	`Class 0 5/50`  
 **Burglar:**	`Class 0 27/50`  
 **Mugger:**	`Class 1 58/200`  
-**Saviour:**	`Class 0 1/25`  
+**Saviour:**	`Class 0 2/25`  
 **Graffiti Artist:**	`Class 0 13/50`  
 **Black-Hat:**	`Class 0 1/50`  
 **Booster:**	`Class 13/50`  
@@ -33,9 +33,9 @@
 **Reinforcement:**	![Check](../../Images/check.png)  
 **Help!:**	`3/100`  
 **Car Thief:**	`1/1000`  
-**Hitman:**	`1532/10000`  
+**Hitman:**	`1550/10000`  
 **Playing Dirty...:**	![Check](../../Images/check.png)  
-**Criminal Mastermind:**	`65/100`  
+**Criminal Mastermind:**	`66/100`  
 **Most Wanted:**	![Check](../../Images/check.png)  
 **Cherry Ride:**	`1/50`  
 **Five Finger Discount:**	`3/500`  
@@ -60,9 +60,9 @@
 **Neither Snow, Nor Rain, Nor Heat...:**	`0/25`  
 **Mailman:**	`0/100`  
 **If You Could Sign by the X:**	`0/500`  
-**Valet:**	`0/100`  
+**Valet:**	`1/100`  
 **Seasoned Veteran:**	![Check](../../Images/check.png)  
-**CarBeque:**	`17/100`  
+**CarBeque:**	`19/100`  
 **Natural Born Leader:**	`22/100`  
 **Kind of a Big Deal:**	`0/1`  
 **Right of Way:**	`23/500`  
