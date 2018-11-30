@@ -12,22 +12,22 @@
 
 1. Download the config. [link](Kevkof_Config.zip)
 2. Install the config: Just copy the 'APB Reloaded' folder from the .zip file to your apb folder (merge both APB Reloaded folders)
-3. Launch APB from the `APB.exe` that you can find in the folder `APB Reloaded\Binaries` (you can just make a shortcut for this)
+3. Launch APB from a special shortcut to allow the use of the custom language files. You'll need to make a shortcut to the `APB.exe` in the folder `APB Reloaded/Binaries` with as additional parameter ` -language=1031`
 
 ### Picture Guide(for the install):
 
-![Step 1](https://i.imgur.com/8kZqE6y.png)
+![Step 1](../img/install_1.png)
 
-![Step 2](https://i.imgur.com/J0iqw7L.png)
+![Step 2](../img/install_2.png)
 
-![Step 3](https://i.imgur.com/FjFOW0E.png)
+![Step 3](../img/install_3.png)
 
 ### Shorcut Parameters
 
-![Shortcut](https://i.imgur.com/vhUJk7B.png)
+![Shortcut](../img/shortcut.png)
 
 ```
-"C:\Program Files (x86)\Steam\steamapps\common\APB Reloaded\Binaries\APB.exe"
+"C:\Program Files (x86)\Steam\steamapps\common\APB Reloaded\Binaries\APB.exe" -language=1031
 ```
 
 ### How do I go back
@@ -42,8 +42,6 @@ You can go back at anytime, just open the normal launcher for the game, click on
 #### Binaries
 
 - Disabled the ingame VOIP  `(VivoxVoiceService.exe)`
-- Disabled the game crash error window `(APB_Catcher.exe)`
-- Disabled the ingame browser (the one you use if you login with your email and password) `(APB_Gecko.exe)`
 
 #### APBGame/Config
 
@@ -59,6 +57,10 @@ You can go back at anytime, just open the normal launcher for the game, click on
 #### APBGame/Content/Release/Maps
 
 - The login screen graphics are disabled (Credit for this goes to Tobii), this helps lower the launch time `(APBLoginLevel.apb)`
+
+#### APBGame/Localization
+
+- You'll find out what all I've changed when you play the game with this config on. `(a lot of them)`
 
 #### APBGame/Movies
 
