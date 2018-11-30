@@ -12,7 +12,7 @@
 
 1. Download the config. [link](Kevkof_Config.zip)
 2. Install the config: Just copy the 'APB Reloaded' folder from the .zip file to your apb folder (merge both APB Reloaded folders)
-3. Launch APB from a special shortcut to allow the use of the custom language files. You'll need to make a shortcut to the `APB.exe` in the folder `APB Reloaded/Binaries` with as additional parameter ` -language=1031`
+3. Launch APB from a special shortcut to allow the use of the custom language files. You'll need to make a shortcut to the `APB.exe` in the folder `APB Reloaded/Binaries` with as additional parameter `-language=1031`
 
 ### Picture Guide(for the install):
 
