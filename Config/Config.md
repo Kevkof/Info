@@ -60,7 +60,7 @@ You can go back at anytime, just open the normal launcher for the game, click on
 
 #### APBGame/Localization
 
-- You'll find out what all I've changed when you play the game with this config on. `(a lot of them)`
+- Changed the look and feel/text of a number of parts of the game, play the game to find out which changes. `(a lot of them)`
 
 #### APBGame/Movies
 
