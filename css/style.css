@@ -1,5 +1,6 @@
 /*!normalize.css 2012-02-07T12:37 UTC - https://github.com/necolas/normalize.css*/
 
+@import url("../portfolio/layout/styles/font-awesome.min.css");
 article,
 aside,
 details,
