@@ -1,0 +1,116 @@
+/* 
+    Document   : Portfolio
+    Created on : 8-dec-2013, 15:33:18
+    Author     : Kevkof
+    Description:
+        Purpose of the stylesheet follows.
+*/
+body{
+    background-image: url('../images/background.jpg');
+    width: 830px;
+    margin: 0 auto;
+}
+
+footer{
+    clear: both;   
+    text-align: center;
+    font-size: 80%;
+    color: white;
+    margin-bottom: 0px;
+    margin-top: 35px;
+}
+
+footer img{
+    border-radius: 30px;
+}
+
+header li{
+    display:inline-block;
+}
+
+nav{
+    background-image: linear-gradient(#7e7878,black);
+    line-height: 45px;
+}
+nav ul { 
+    list-style: none; 
+    text-align: center;
+} 
+
+nav li { 
+    display:inline-block;
+    width: 145px;
+    height: 45px; 
+} 
+
+nav a { 
+    display: block; 
+    text-align: center; 
+    height: 45px;
+    text-decoration: none;
+}
+
+nav a:link { 
+    color: #00ffff; 
+    border-radius: 10px;
+}
+
+nav a:visited { 
+    color: #00ffff; 
+    border-radius: 10px;
+}
+
+nav a:hover { 
+    background-color: #444444;
+    border-radius: 10px;
+    color: #ffffff;
+}
+
+.active{ 
+    color: #000000; 
+    background-color: #7e7878;
+    border-radius: 10px ;
+}
+
+.back{
+    color: #7e7878;
+}
+
+.white{
+    padding: 15px;
+    background-image:radial-gradient(white,#cccccc);
+    width: 800px;
+    text-align: center;   
+}
+
+.white li{
+    padding: 10px;
+    list-style-position: inside;
+}
+
+h2{
+    font-size: 130%;
+    font-weight: 600;
+}
+
+.white td{
+    text-align: left;
+}
+
+.white ul{
+    list-style: none;
+}
+
+h3{
+    font-size: 110%;
+    text-decoration: underline;
+}
+
+.left{
+    text-align: left;
+    padding-left: 40px;
+}
+
+.blue{
+    color: #0000cc;
+}
