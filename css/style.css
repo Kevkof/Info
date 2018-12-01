@@ -825,3 +825,10 @@ pre.image {
   color: #DDDDDD;
 }
 
+hr{
+  border-top: 5px dashed #AAAAAA;
+}
+
+hr.double{
+  border-top: 10px double #AAAAAA ;
+}
