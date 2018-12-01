@@ -109,8 +109,7 @@ mark {
   color: #000
 }
 
-p,
-pre {
+p {
   margin: 1em 0
 }
 
@@ -586,6 +585,7 @@ code {
 }
 
 pre {
+  width: fit-content;
   padding: 8px 15px;
   background: #191919;
   border-radius: 2px;
@@ -798,7 +798,29 @@ div#header {
 div#title {
   display: none
 }
-span.info{
+
+span.info {
   color: #fff;
   font-style: italic
 }
+
+.copybtn {
+  border-radius: 2px;
+  vertical-align: middle;
+  padding: 4px
+}
+
+.copy {
+  margin-top: -3px;
+  position: relative;
+  top: 3px;
+}
+
+pre.image {
+  margin-left: -1px;
+  display: inline;
+  background: #333333;
+  border: none;
+  color: #DDDDDD;
+}
+
