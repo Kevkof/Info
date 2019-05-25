@@ -1,0 +1,266 @@
+{
+  "name": "",
+  "server": "",
+  "gender": "",
+  "faction": "Enforcer",
+  "rating": ,
+  "total_kills": ,
+  "roles": [{
+    "role_name": "Cop",
+    "progression": ,
+    "progression_cap": ,
+    "rank": ,
+    "rank_cap": 15
+  }, {
+    "role_name": "Demolitions",
+    "progression": ,
+    "progression_cap": ,
+    "rank": ,
+    "rank_cap": 6
+  }, {
+    "role_name": "Grenadier",
+    "progression": ,
+    "progression_cap": ,
+    "rank": ,
+    "rank_cap": 5
+  }, {
+    "role_name": "Gunslinger",
+    "progression": ,
+    "progression_cap": ,
+    "rank": ,
+    "rank_cap": 6
+  }, {
+    "role_name": "Machine Gunner",
+    "progression": ,
+    "progression_cap": ,
+    "rank": ,
+    "rank_cap": 16
+  }, {
+    "role_name": "Marksman",
+    "progression": ,
+    "progression_cap": ,
+    "rank": ,
+    "rank_cap": 16
+  }, {
+    "role_name": "Pointman",
+    "progression": ,
+    "progression_cap": ,
+    "rank": ,
+    "rank_cap": 16
+  }, {
+    "role_name": "Rifleman",
+    "progression": ,
+    "progression_cap": ,
+    "rank": ,
+    "rank_cap": 16
+  }, {
+    "role_name": "Sniper",
+    "progression": ,
+    "progression_cap": ,
+    "rank": ,
+    "rank_cap": 16
+  }, {
+    "role_name": "Munitions Specialist",
+    "progression": ,
+    "progression_cap": ,
+    "rank": ,
+    "rank_cap": 15
+  }, {
+    "role_name": "Bomb Squad",
+    "progression": ,
+    "progression_cap": ,
+    "rank": ,
+    "rank_cap": 3
+  }, {
+    "role_name": "Crime-Scene Investigator",
+    "progression": ,
+    "progression_cap": ,
+    "rank": ,
+    "rank_cap": 3
+  }, {
+    "role_name": "Ram-Man",
+    "progression": ,
+    "progression_cap": ,
+    "rank": ,
+    "rank_cap": 3
+  }, {
+    "role_name": "Graffiti Artist",
+    "progression": ,
+    "progression_cap": ,
+    "rank": ,
+    "rank_cap": 3
+  }, {
+    "role_name": "White-Hat",
+    "progression": ,
+    "progression_cap": ,
+    "rank": ,
+    "rank_cap": 3
+  }],
+  "achievements": [{
+      "achi_name": "Reinforcement",
+      "earned": true
+    },
+    {
+      "achi_name": "Help!",
+      "earned": true
+    },
+    {
+      "achi_name": "Busted",
+      "earned": true
+    },
+    {
+      "achi_name": "SuperCop",
+      "earned": true
+    },
+    {
+      "achi_name": "Detective",
+      "earned": true
+    },
+    {
+      "achi_name": "Sweet Dreams Asshole",
+      "earned": true
+    },
+    {
+      "achi_name": "SWAT",
+      "earned": true
+    },
+    {
+      "achi_name": "Bounty Hunter",
+      "earned": true
+    },
+    {
+      "achi_name": "Dangerous Individual",
+      "earned": true
+    },
+    {
+      "achi_name": "Out On Patrol",
+      "earned": true
+    },
+    {
+      "achi_name": "R&R",
+      "earned": true
+    },
+    {
+      "achi_name": "Backstabber",
+      "earned": true
+    },
+    {
+      "achi_name": "Drive-by Annihilation",
+      "earned": false,
+      "progress": 0,
+      "progress_cap": 1
+    },
+    {
+      "achi_name": "Boom goes the Dynamite!",
+      "earned": true
+    },
+    {
+      "achi_name": "Cold-blooded",
+      "earned": true
+    },
+    {
+      "achi_name": "Drive-by",
+      "earned": false,
+      "progress": 24,
+      "progress_cap": 50
+    },
+    {
+      "achi_name": "CarBoom!",
+      "earned": true
+    },
+    {
+      "achi_name": "Friends in High Places",
+      "earned": true
+    },
+    {
+      "achi_name": "Skills to Pay the Bills",
+      "earned": true
+    },
+    {
+      "achi_name": "New To The Force",
+      "earned": true
+    },
+    {
+      "achi_name": "ShadowStrike Elite",
+      "earned": true
+    },
+    {
+      "achi_name": "First Pick",
+      "earned": true
+    },
+    {
+      "achi_name": "Track Star",
+      "earned": true
+    },
+    {
+      "achi_name": "Medal Chaser",
+      "earned": true
+    },
+    {
+      "achi_name": "Most Valuable Player",
+      "earned": true
+    },
+    {
+      "achi_name": "Olympic Contender",
+      "earned": true
+    },
+    {
+      "achi_name": "Indoctrinate the Masses",
+      "earned": false,
+      "progress": 32,
+      "progress_cap": 50
+    },
+    {
+      "achi_name": "Neither Snow, Nor Rain, Nor Heat…",
+      "earned": false,
+      "progress": 0,
+      "progress_cap": 25
+    },
+    {
+      "achi_name": "Mailman",
+      "earned": false,
+      "progress": 0,
+      "progress_cap": 100
+    },
+    {
+      "achi_name": "If You Could Sign by the X",
+      "earned": false,
+      "progress": 0,
+      "progress_cap": 500
+    },
+    {
+      "achi_name": "Valet",
+      "earned": false,
+      "progress": 2,
+      "progress_cap": 100
+    },
+    {
+      "achi_name": "Seasoned Veteran",
+      "earned": true
+    },
+    {
+      "achi_name": "CarBeque",
+      "earned": true
+    },
+    {
+      "achi_name": "Natural Born Leader",
+      "earned": true
+    },
+    {
+      "achi_name": "Kind of a Big Deal",
+      "earned": true
+    },
+    {
+      "achi_name": "Right of Way",
+      "earned": false,
+      "progress": 267,
+      "progress_cap": 500
+    },
+    {
+      "achi_name": "Grease Monkey",
+      "earned": false,
+      "progress": 298,
+      "progress_cap": 400
+    }
+  ]
+}

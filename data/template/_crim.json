@@ -1,0 +1,260 @@
+{
+  "name": "Kevkof1994",
+  "server": "Citadel",
+  "gender": "Male",
+  "faction": "Criminal",
+  "rating": 255,
+  "total_kills": 77098,
+  "roles": [{
+    "role_name": "Demolitions",
+    "progression": null,
+    "progression_cap": null,
+    "rank": 6,
+    "rank_cap": 6
+  }, {
+    "role_name": "Grenadier",
+    "progression": null,
+    "progression_cap": null,
+    "rank": 5,
+    "rank_cap": 5
+  }, {
+    "role_name": "Gunslinger",
+    "progression": null,
+    "progression_cap": null,
+    "rank": 6,
+    "rank_cap": 6
+  }, {
+    "role_name": "Machine Gunner",
+    "progression": 118,
+    "progression_cap": 5000,
+    "rank": 14,
+    "rank_cap": 16
+  }, {
+    "role_name": "Marksman",
+    "progression": 2655,
+    "progression_cap": 5000,
+    "rank": 14,
+    "rank_cap": 16
+  }, {
+    "role_name": "Pointman",
+    "progression": null,
+    "progression_cap": null,
+    "rank": 16,
+    "rank_cap": 16
+  }, {
+    "role_name": "Rifleman",
+    "progression": 8285,
+    "progression_cap": 10000,
+    "rank": 15,
+    "rank_cap": 16
+  }, {
+    "role_name": "Sniper",
+    "progression": 1152,
+    "progression_cap": 5000,
+    "rank": 14,
+    "rank_cap": 16
+  }, {
+    "role_name": "Munitions Specialist",
+    "progression": null,
+    "progression_cap": null,
+    "rank": 15,
+    "rank_cap": 15
+  }, {
+    "role_name": "Arsonist",
+    "progression": null,
+    "progression_cap": null,
+    "rank": 3,
+    "rank_cap": 3
+  }, {
+    "role_name": "Bomber",
+    "progression": null,
+    "progression_cap": null,
+    "rank": 3,
+    "rank_cap": 3
+  }, {
+    "role_name": "Burglar",
+    "progression": null,
+    "progression_cap": null,
+    "rank": 3,
+    "rank_cap": 3
+  }, {
+    "role_name": "Mugger",
+    "progression": null,
+    "progression_cap": null,
+    "rank": 3,
+    "rank_cap": 3
+  }, {
+    "role_name": "Saviour",
+    "progression": null,
+    "progression_cap": null,
+    "rank": 3,
+    "rank_cap": 3
+  }, {
+    "role_name": "Graffiti Artist",
+    "progression": null,
+    "progression_cap": null,
+    "rank": 3,
+    "rank_cap": 3
+  }, {
+    "role_name": "Black-Hat",
+    "progression": 217,
+    "progression_cap": 250,
+    "rank": 2,
+    "rank_cap": 3
+  }, {
+    "role_name": "Booster",
+    "progression": null,
+    "progression_cap": null,
+    "rank": 3,
+    "rank_cap": 3
+  }],
+  "achievements": [{
+      "achi_name": "Reinforcement",
+      "earned": true
+    },
+    {
+      "achi_name": "Help!",
+      "earned": true
+    },
+    {
+      "achi_name": "Car Thief",
+      "earned": true
+    },
+    {
+      "achi_name": "Hitman",
+      "earned": true
+    },
+    {
+      "achi_name": "Playing Dirty…",
+      "earned": true
+    },
+    {
+      "achi_name": "Criminal Mastermind",
+      "earned": true
+    },
+    {
+      "achi_name": "Most Wanted",
+      "earned": true
+    },
+    {
+      "achi_name": "Cherry Ride",
+      "earned": true
+    },
+    {
+      "achi_name": "Five Finger Discount",
+      "earned": true
+    },
+    {
+      "achi_name": "Hooligan",
+      "earned": true
+    },
+    {
+      "achi_name": "R&R",
+      "earned": true
+    },
+    {
+      "achi_name": "Backstabber",
+      "earned": true
+    },
+    {
+      "achi_name": "Drive-by Annihilation",
+      "earned": true
+    },
+    {
+      "achi_name": "Boom goes the Dynamite!",
+      "earned": true
+    },
+    {
+      "achi_name": "Cold-blooded",
+      "earned": true
+    },
+    {
+      "achi_name": "Drive-by",
+      "earned": true
+    },
+    {
+      "achi_name": "CarBoom!",
+      "earned": true
+    },
+    {
+      "achi_name": "Friends in High Places",
+      "earned": true
+    },
+    {
+      "achi_name": "Skills to Pay the Bills",
+      "earned": true
+    },
+    {
+      "achi_name": "New Blood",
+      "earned": true
+    },
+    {
+      "achi_name": "Blood-Brother",
+      "earned": true
+    },
+    {
+      "achi_name": "Original G",
+      "earned": true
+    },
+    {
+      "achi_name": "Friend of Gresty",
+      "earned": true
+    },
+    {
+      "achi_name": "Medal Chaser",
+      "earned": true
+    },
+    {
+      "achi_name": "Most Valuable Player",
+      "earned": true
+    },
+    {
+      "achi_name": "Olympic Contender",
+      "earned": true
+    },
+    {
+      "achi_name": "Indoctrinate the Masses",
+      "earned": true
+    },
+    {
+      "achi_name": "Neither Snow, Nor Rain, Nor Heat…",
+      "earned": true
+    },
+    {
+      "achi_name": "Mailman",
+      "earned": true
+    },
+    {
+      "achi_name": "If You Could Sign by the X",
+      "earned": true
+    },
+    {
+      "achi_name": "Valet",
+      "earned": true
+    },
+    {
+      "achi_name": "Seasoned Veteran",
+      "earned": true
+    },
+    {
+      "achi_name": "CarBeque",
+      "earned": true
+    },
+    {
+      "achi_name": "Natural Born Leader",
+      "earned": true
+    },
+    {
+      "achi_name": "Kind of a Big Deal",
+      "earned": true
+    },
+    {
+      "achi_name": "Right of Way",
+      "earned": true
+    },
+    {
+      "achi_name": "Grease Monkey",
+      "earned": true
+    }
+  ]
+}

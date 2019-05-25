@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html style="height:100%; margin:0; padding:0">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <title>Clock</title>
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+  <style type="text/css">
+    /* Customizable font and colors */
+    html {
+      background: #333333;
+      font-family: sans-serif;
+      font-weight: bold;
+      color: #DDDDDD;
+    }
+    span{
+      text-align: center;
+    }
+  </style>
+</head>
+<body style="display: grid; height:100%; margin:0; padding:0; justify-content: center; align-content: center; ">
+  <span id="clocktext" style="font-kerning:none;"></span>
+  <span id="datetext" style="font-kerning:none;"></span>
+  <span id="pdttext" style="font-kerning:none;"></span>
+  <script type="text/javascript">
+    "use strict";
+    var textElem = document.getElementById("clocktext");
+    var pdtElem = document.getElementById("pdttext");
+    var dateElem = document.getElementById("datetext");
+    var targetWidth = 0.9; 
+    var curFontSize = 30; 
+    var dateWidth = 0.9;
+    var dateFontSize = 25;
+    var count = 0; 
+    function updateClock() {
+      var d = new Date();
+      var d2= new Date();
+      d2.setHours(d2.getHours() - 9);
+      console.log(d2);
+      var s = "";
+      var s2 = "PDT: ";
+      var w = "";
+      s += (10 > d.getHours() ? "0" : "") + d.getHours() + ":";
+      s2 += (10 > d2.getHours() ? "0" : "") + d2.getHours() + ":";
+      s += (10 > d.getMinutes() ? "0" : "") + d.getMinutes();
+      s2 += (10 > d2.getMinutes() ? "0" : "") + d2.getMinutes();
+      w += d.toDateString();
+      textElem.textContent = s;
+      pdtElem.textContent = s2;
+      dateElem.textContent = w;
+      count++;
+      if (count==60) {
+        location.reload();
+      }
+      setTimeout(updateClock, 60000 - d.getTime() % 60000 + 100);
+    }
+    function updateTextSize() {
+      for (var i = 0; 4 > i; i++) { // Iterate for better better convergence
+        curFontSize *= targetWidth / (textElem.offsetWidth / textElem.parentNode.offsetWidth);
+        textElem.style.fontSize = curFontSize + "pt";
+        dateFontSize *= dateWidth / (dateElem.offsetWidth / dateElem.parentNode.offsetWidth);
+        dateElem.style.fontSize = dateFontSize + "pt";
+        pdtElem.style.fontSize = dateFontSize/2 + "pt";
+      }
+    }
+    updateClock();
+    updateTextSize();
+    window.addEventListener("resize", updateTextSize);
+  </script>
+</body>
+</html>
